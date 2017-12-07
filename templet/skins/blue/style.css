@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+	/* *****----- Primary: Blue - #478bca -----***** */
+	
+	::-moz-selection {  color: #478bca; }
+	::selection {  color: #478bca; }
+	
+	/*----*****---- << Color >> ----*****----*/
+
+	a:hover, .top-bar .top-right ul li a:hover, .dt-sc-offer .gallery-details h4 a:hover, .carousel-arrows a:hover i.fa, .dt-sc-team h5, .widget.widget_text .textwidget ul li a:hover, .widget_text .dt-sc-clr, .widget.widget_tweetbox a:hover, ul.tweet_list li.tweet::before, ul.footer-icons li a:hover, #footer .copyright p a:hover, .breadcrumb-wrapper h6 a, .fullwidth-section.dark-bg h3 a:hover, ul.opening-time li.close, ul.opening-time li.close h5, .blog-items .entry-body p a:hover, .blog-items .entry-body .alignright a, .reply a, .widget a:hover, .widget.widget_tag_cloud .tagcloud a:hover, .product-border .product-thumb span.new, .star-rating span::before, .dt-sc-tabs-container .dt-sc-share-post ul.social-icons li a:hover, .dt-sc-share-post span a, .widget ul.recent_entries li p a:hover, td.price, td.total, td.remove a, .widget_categories ul li h5.active a, .blog-items .entry-metadata .author a:hover, .blog-items .entry-metadata .tags a:hover, #main-menu ul li.menu-item-simple-parent ul li a:hover, .dt-sc-offer-text, ul.dt-sc-offer-date li span, .dt-sc-price, .dt-sc-counter-number > p, .entry-metadata .author, .entry-metadata .tags, .entry-metadata .author a, .entry-metadata .tags a, ul.menu-card li:before, .dt-sc-testimonial .author-detail span, .dt-sc-view-btn > a:hover, h4.dt-sc-abt-title span, .services-container .dt-sc-view-btn a:hover, .btn-eff1::after, .pagination ul li.current_now a, .pagination ul li a:hover, .pagination .next-post a:hover, .pagination .prev-post a:hover, .content ul.dt-sc-tabs-frame li a.current, .content ul.dt-sc-tabs-frame li a:hover, .coupon-form input[type="submit"]:hover, .banner.type3 .caption h1 b, .portfolio-single p span, .portfolio-single p.comments a:hover, .portfolio-single p.likes a:hover, .portfolio-single h6 span, ul.info li a:hover, ul.dt-sc-tabs-frame li.current, ul.dt-sc-tabs-frame li:hover, .dt-sc-sorting-container a.active-sort, .dt-sc-sorting-container a:hover, .product-four:hover .cart-whislist li:hover a, p.drop-cap:first-letter, .branch_details h4.title, .dt-sc-tabs-frame-content a.dt-sc-button:hover, .dt-sc-tabs-frame-content.dt-sc-ico-content .alignleft span, .dt-sc-tabs-frame-content.dt-sc-ico-content .alignright span, ul.dt-sc-ico-content.type5 li .icon span.fa, .dt-sc-tabs-container.type2 li a.current, .dt-sc-tabs-vertical-container ul.dt-sc-tabs-vertical-frame li.current a, ul.dt-sc-ico-content.type5 li:hover h4 a, .dt-sc-donutchart i.fa, .dt-sc-donutchart-medium h4, .dt-sc-pr-tb-col.type1.selected .btn-eff3, .dt-sc-pr-tb-col.type2.selected .btn-eff3, .dt-sc-tooltip span, .dt-sc-callout-box.with-icon:hover .icon, .banner.type4 .caption h3 span, .nav-roundslide.collapse a.menu-btn h3 i, h3.loader-text:first-letter, .dt-sc-service.type2:hover h3 a { color: #478bca; }
+	
+	.blog-items .entry-metadata .author a:hover, .blog-items .entry-metadata .tags a:hover { color: #478bca !important; }
+	
+	.dt-sc-testimonial-carousel li blockquote:before { color: rgba(71, 139, 202, 0.8); }
+
+	/*----*****---- << BackGround Color >> ----*****----*/
+
+	input[type="submit"], button, input[type="button"], input[type="reset"], .dt-sc-service.type1:hover .icon img, input.btn[type="submit"]:hover, .dt-sc-notification a.dt-sc-button, .blog-entry:hover .entry-details .entry-meta h6, ul.menu-card li span, a.cart:hover, .dt-sc-view-btn > a, ul.dt-sc-tabs-frame li.current, ul.dt-sc-tabs-frame li:hover, .dt-sc-sorting-container a.active-sort, .dt-sc-sorting-container a:hover, .services-container .dt-sc-view-btn a:hover, a.appointment-btn, .entry-meta.img > h6, .widget.widget_special-offer a:before, .widget.widget_special-offer a:after, .widget.widget_special-offer .dt-sc-entry-thumb::after, .widget.widget_special-offer .dt-sc-entry-thumb::before, .content .product-details a.dt-sc-button.btn-eff1.eff1, .shipping-box a.dt-sc-button, .widget_price_filter .ui-slider .ui-slider-range, .dt-sc-ico-content.type1 .icon span, .dt-sc-button.small.type1.with-icon.next-post::after, .dt-sc-button.small.type1.with-icon.prev-post::after, ul.footer-icons li a:after, table.dt-sc-table thead, .dt-sc-ico-content.type2:hover .icon, ul.dt-sc-tabs-frame.dt-sc-ico-content.type3 li.current:after, .dt-sc-tabs-frame-content a.dt-sc-button, .dt-sc-tabs-container.type2 li a.current:before, .dt-sc-team.type2 .team-details-social-icons a:after, ul.dt-sc-ico-content.type5 li:hover:before, .dt-sc-team.type3 .team-details-social-icons a:after, .dt-sc-ico-content.type4 .icon h4:after, .dt-sc-bar, .dt-sc-pr-tb-col.type1:hover .dt-sc-tb-title, .dt-sc-pr-tb-col.type1.selected .dt-sc-tb-title, .dt-sc-titled-box h6.dt-sc-titled-box-title, .blockquote.type2.fullwidth, .dt-sc-callout-box .icon, #rt-menu-wrapper > ul > li > a > span, #rt-menu-wrapper > ul > li > a, .dt-sc-tabs-container.type3 ul.dt-sc-tabs-frame li.current:after { background-color: #478bca; }
+
+	/*----*****---- << BorderColor >> ----*****----*/ 
+
+	input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="tel"]:focus, input[type="number"]:focus, input[type="range"]:focus, input[type="date"]:focus, textarea:focus, input.text:focus, input, .pagination ul li.current_now a, .pagination ul li a:hover, .pagination .next-post a:hover, .pagination .prev-post a:hover[type="search"]:focus, #footer input[type="email"]:focus,  .blog-entry:hover .entry-thumb, input.btn[type="submit"]:hover, ul.dt-sc-tabs-frame li.current, ul.dt-sc-tabs-frame li:hover, .dt-sc-sorting-container a.active-sort, .dt-sc-sorting-container a:hover, .reply, .widget.widget_tag_cloud .tagcloud a:hover,  .content .product-details a.dt-sc-button.btn-eff1.eff1, .content .dt-sc-tabs-container, .content .dt-sc-tabs-frame-content, .coupon-form input[type="submit"], #dt-style-picker ul li a.selected, a.dt-sc-button:hover, .dt-sc-notification a.dt-sc-button, .dt-sc-post-pagination, .dt-sc-button.small.type1.with-icon.prev-post, .dt-sc-button.small.type1.with-icon.next-post, .carousel-arrows a, .dt-sc-ico-content.type2:hover .icon, .dt-sc-tabs-frame-content a.dt-sc-button, .dt-sc-pr-tb-col.type1.selected .btn-eff3, .dt-sc-pr-tb-col.type2.selected .btn-eff3, .dt-sc-dropcap.dt-sc-dropcap-bordered-circle, .dt-sc-callout-box.with-icon:hover .icon, .recent-blog-container.type2 .bx-controls a { border-color: #478bca; }
+	
+	ul.dt-sc-tabs-frame li.current::before, .dt-sc-sorting-container a.active-sort::before, .blockquote.type2.top, .blockquote.type2.top:after, .dt-sc-callout-box.type3 { border-top-color: #478bca; }
+	
+	ul.dt-sc-tabs-frame.dt-sc-ico-content.type3 li.current:before { border-bottom-color: #478bca; }
+	
+	.dt-sc-tabs-vertical-container ul.dt-sc-tabs-vertical-frame li.current, .dt-sc-toggle-frame h5.dt-sc-toggle.type2.active, .dt-sc-callout-box.type1, .dt-sc-toggle-frame h5.dt-sc-toggle-accordion.active { border-left-color: #478bca; }
+	
+	.inner { border-color: #478bca !important; }
+	
+	/*----*****---- << Others >> ----*****----*/ 
+	
+	#main-menu > ul > li.current_page_item > a, #main-menu > ul > li > a:hover, #main-menu > ul ul li.current_page_item > a { color: #478bca !important; }
+	
+	.dt-sc-offer-text h2 { color: #478bca !important; }
+	
+	.is-sticky .type2 #menu-container::after, .is-sticky #menu-container { box-shadow: 0 0 3px #478bca; }
+	
+	.portfolio .fig-content { background-color: rgba(71, 139, 202, 0.8); }
+	
+	.recent-gallery-container #bx-pager a.active, .recent-gallery-container #bx-pager a:hover { box-shadow: 0 0 0 3px #478bca; -moz-box-shadow: 0 0 0 3px #478bca; -webkit-box-shadow: 0 0 0 3px #478bca;} 
+	
+	#toTop { box-shadow: 0 0 0 2px #478bca; }
+	
+	#toTop:hover { box-shadow: -2px -2px 0 0 #478bca; }
+	
+	table.dt-sc-table tbody, .dt-sc-pr-tb-col.type2.selected .dt-sc-price-table, .dt-sc-pr-tb-col.type2:hover .dt-sc-price-table { background-color: rgba(71, 139, 202, 0.7); }
+	
+	.dt-sc-pr-tb-col.type1.selected, .dt-sc-pr-tb-col.type1:hover { box-shadow: 0 0 3px #478bca inset; }
+	
+	.dt-sc-tooltip span { box-shadow: 1px 1px 2px #478bca; }
+	
+	.ip-header .ip-loader svg path.ip-loader-circle { stroke: #478bca; }

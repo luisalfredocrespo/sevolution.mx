@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----*****---- << Font Face >> ----*****----*/
+
+	@font-face {
+	font-family: 'Gabriola';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Gabriola'), url('gabriola Font Download.woff') format('woff');
+	}
+	
+	
+	@font-face {
+		font-family: 'KozGoPr6N--AlphaNum';
+		src: url('../fonts/KozGoPr6N-Light-AlphaNum.eot');
+		src: url('../fonts/KozGoPr6N-Light-AlphaNum.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/KozGoPr6N-Light-AlphaNum.woff') format('woff'),
+			 url('../fonts/KozGoPr6N-Light-AlphaNum.ttf')  format('truetype');
+		font-weight: 200;
+		font-style: normal;
+	}
+	
+	
+	@font-face {
+		font-family: 'KozGoPr6N--AlphaNum';
+		src: url('../fonts/KozGoPr6N-ExtraLight-AlphaNum.eot');
+		src: url('../fonts/KozGoPr6N-ExtraLight-AlphaNum.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/KozGoPr6N-ExtraLight-AlphaNum.woff') format('woff'),
+			 url('../fonts/KozGoPr6N-ExtraLight-AlphaNum.ttf')  format('truetype');
+		font-weight: 200;
+		font-style: normal;
+	}
+	
+	
+	@font-face {
+		font-family: 'KozMinPr6N--AlphaNum';
+		src: url('../fonts/KozMinPr6N-ExtraLight-AlphaNum.eot');
+		src: url('../fonts/KozMinPr6N-ExtraLight-AlphaNum.eot?#iefix') format('embedded-opentype'),
+			 url('../fonts/KozMinPr6N-ExtraLight-AlphaNum.woff') format('woff'),
+			 url('../fonts/KozMinPr6N-ExtraLight-AlphaNum.ttf')  format('truetype');
+		font-weight: 200;
+		font-style: normal;
+	}

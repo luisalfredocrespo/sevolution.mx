@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+# Activar RewriteEngine
+RewriteEngine on
+RewriteBase / 
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+# Reescribir la URL solicitada por el usuario
+#   Entrada:  ID-NOMBRE
+#   Salida: index.php?id=ID
+# dominio.com/productos/camisa = index.php?ruta=productos&peticion=camisa
+RewriteRule ([a-zA-Z0-9-]*+)\/*([a-zA-Z0-9-_\/]*)\/*$ index.php?ruta=$1&peticion=$2
+</IfModule>
