@@ -356,36 +356,33 @@
                             <h4>
                                 <a target="_blank" href="#"> oil essences</a>
                             </h4>
-                            <p>tratamiento intensivo amplificador de la luz reduce las asperezas superficiales de fibre capilar y cierra as cuticulas. 
-							$ 70 c/u</p>
+                            <p>OIL ESSENCES te aportará brillo, vigor, hidratación y protección, a la vez que combaten el encrespamiento y los síntomas de la edad de tu cabello. $ 350</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/morada.jpg" alt="" title="">
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/oil essences ethernal moringa.png" alt="" title="">
                                 <h4> oil essences ethernal moringa</h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> oil essences ethernal moringa </a>
+                                <a target="_blank" href="#"> </a>
                             </h4>
-                            <p>tratamiento intensivo revitalizador y perfeccionador, aporta elasticidad y devuelve a los cabellos su brillo natural.
-							$70 c/u</p>
+                            <p>En cierto modo se rejuvenece el cabello desde su interior. Además, estos mismos minerales y vitaminas hacen que el cabello sea más fuerte y lucha contra la caspa y las puntas abiertas $350</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img1.png" alt="" title="">
-                                <h4> illuminating shampoo </h4>            
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/OIL ESSENCES 10ML..fw.png" alt="" title="">
+                                <h4> OIL ESSENCES 10ML</h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> illuminating shampoo  </a>
+                                <a target="_blank" href="#"> OIL ESSENCES 10ML </a>
                             </h4>
                             <p>
 							<br>
-							una ligera caricia de luz para los cabellos. Fibra capilar suave y revitaliza que resplende al instante, con un efecto duradero.
-                                $ 215							
+							Concentrado del aceite Essences para una recuperación del brillo y la vitalidad del cabello de una forma intensa y rápida $ 80						
 								<br>
 								</p>
                         </div>
@@ -394,27 +391,25 @@
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img2.png" alt="" title=""> 
-                                <h4> ILLUMUNATING MASK  </h4>            
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/OIL ESSENCES ETHERNAL 10ML..fw.png" alt="" title=""> 
+                                <h4>OIL ESSENCES ETHER 10ML </h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#">  ILLUMUNATING MASK  </a>
+                                <a target="_blank" href="#">  OIL ESSENCES ETHER 10ML </a>
                             </h4>
-                            <p>Revitaliza intensamente la fribra capilar para unos cabellos suaves y fluidos, que difunden una luminosidad intensa y vibrante.
-							$320</p>
+                            <p>Aplica una pequeña cantidad de Oil Essences Ethernal Moringa en la palma de la mano y distribuye sobre el cabello, una vez lavado. Peinar como de costumbre $ 80</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img3.png" alt="" title="">
-                                <h4> EXTRAORDINARY ALL-IN-1 FLUID</h4>            
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/hair cream 360.fw.png" alt="" title="">
+                                <h4> hair cream 360</h4>            
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> EXTRAORDINARY ALL-IN-1 FLUID </a>
+                                <a target="_blank" href="#"> hair cream 360 </a>
                             </h4>
-                            <p>Protege el color cosmético, desenreda los cabellos, protege contra los rayos UVA y UVB, previne la formación de puntas abiertas, controla el peinado, combate el efecto de la humedad, sella las cutículas.
-							$280</p>
+                            <p>proporciona mas de diez beneficios en un solo producto .Este sistema sin enjuagado es un efectivo reparador de la fibra capilar que aporta beneficios visibles para el cabello desde la primera aplicacion.$150</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
