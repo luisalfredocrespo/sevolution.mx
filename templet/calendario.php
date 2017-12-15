@@ -4,20 +4,32 @@
                     <div class="hr-invisible-small"></div>
                     <ul class="dt-sc-tabs-frame dt-sc-ico-content type3">	
                         <li>
-                            <i class="fa fa-paper-plane"></i>
-                            <h5> ALFAPARF </h5>
+                           <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/iconoalfaparf.fw.png" alt="" title="">
+							<br> 
+							<br> 
+							<br> 
+                            <h5></h5>
                         </li>
                         <li>
-                            <i class="fa fa-magic"></i>
-                            <h5> LENDA </h5>
+                            <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/iconolenda.fw.png" alt="" title="">
+							<br> 
+							<br> 
+							<br> 
+                            <h5> </h5>
                         </li>
                         <li>
-                            <i class="fa fa-desktop"></i>
-                            <h5> 100% Responsive </h5>
+                            <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/iconosalerm.fw.png" alt="" title="">
+							<br> 
+							<br> 
+							<br> 
+                            <h5> </h5>
                         </li>
                         <li>
-                            <i class="fa fa-trophy"></i>
-                            <h5> Awesome Features </h5>
+                            <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/iconotecitaly.fw.png" alt="" title="">
+							<br> 
+							<br> 
+							<br> 
+                            <h5> </h5>
                         </li>
                     </ul>
                     <div class="hr-invisible-medium"></div>                           
@@ -409,7 +421,7 @@
                             <h4>
                                 <a target="_blank" href="#"> hair cream 360 </a>
                             </h4>
-                            <p>proporciona mas de diez beneficios en un solo producto .Este sistema sin enjuagado es un efectivo reparador de la fibra capilar que aporta beneficios visibles para el cabello desde la primera aplicacion.$150</p>
+                            <p>proporciona mas de diez beneficios en un solo producto .Este sistema sin enjuagado es un efectivo reparador de la fibra capilar que aporta beneficios visibles para el cabello desde la primera aplicacion.$150 </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
@@ -657,14 +669,321 @@
 						<?php  /** cierre descripcion de productos LENDA**/ ?>
                     </div>
                     <div class="dt-sc-tabs-frame-content dt-sc-ico-content">
-                    	<div class="alignleft">
-                            <h4> 100% Responsive </h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur <span>adipiscing</span> elit, sed do eiusmod tempor <span>incididunt</span> ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in <span>voluptate</span> id est laborum.</p>
-                            <a class="dt-sc-button btn-eff2 small" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#"> Read More </a>
+                    	 <div class="dt-sc-tabs-frame-content dt-sc-ico-content">
+                    	<?php  /** apertura descripcion de productos salerm**/ ?>
+						<div class="hr-invisible-small"></div>
+                    
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 cog">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/straightening spray.fw.png" alt="" title="">
+                                <h4>straightening spray</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> straightening spray</a>
+                            </h4>
+                            <p>Proteinas Hidrolizadas que facilita el planchado del cabello. Crea una barrera de protección de la fibra caílar frente al calor.Fortifica e hidrata el cabello para alisar la superficie capilar de la raíz a la punta.</p>
                         </div>
-                        <div class="alignright">
-                            <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-img6.jpg" alt="" title="" />
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 anchor">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/volumedust01.fw.png" alt="" title="">
+                                <h4> volume dust 01</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> volume dust 01  </a>
+                            </h4>
+                            <p>Polvo de peinado volumen y densidad </p>
+                                <br>
+								<br>
+								<br>
+								<br>
+								<br>
                         </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 magic">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/mattclay02.fw.png" alt="" title="">
+                                <h4> matt clay 02</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">matt clay 02 </a>
+                            </h4>
+                            <p>
+							Arcilla diseñada para painar y crear looks con efecto mate.Ideal para cabellos medios y medios largos.Fijacion flexible de larga duración.Además aporta hidratación y acondicionamiento.						
+								</p>
+                        </div>
+                    </div>
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 desktop">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/lissfoam01.fw.png" alt="" title=""> 
+                                <h4> liss foam 01  </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">  liss foam 01  </a>
+                            </h4>
+                            <p>Elimina el encrespamiento, facilitando y mejorando el resultado del alisado con plancha p secador, al tiempo que trata y repara en profundidad el cabello gracias al complejo de querartina kera-3 System.Tecnologia activada por calor y termo-proctectora.larga duracion sin residuos.</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 trophy">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tratamientohirepair.fw.png" alt="" title="">
+                                <h4> tratamiento hi repair </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">tratamiento hi repair </a>
+                            </h4>
+                            <p>Tratamiento rejuvenecedor para el cabello en 3 pasos.
+							Resultados inmediatos y espectaculares: cabellos sanos, fuertes y con cuerpo.</p>
+							<br>
+								<br>
+								<br>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 plane">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/balsamwithprotein.fw.png" alt="" title="">
+                                <h4>balsam with protein </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> balsam with protein  </a>
+                            </h4>
+                            <p>Devuelve el equilibrio natural al cabello castigado,tanto por los efectos ambientales como por los procesos técnicos con este bálsamo rico en activos acondicionadores. El cabello recuperará inmediatamente la suavidad,luminosidad y brillo. Es ideal para todo tipo de cabellos</p>
+                        </div>
+                    </div>
+					
+                    	
+						<div class="hr-invisible-small"></div>
+                    
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 cog">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/protein.fw.png" alt="" title="">
+                                <h4>protein </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> protein </a>
+                            </h4>
+                            <p>Champú Proteínas Línea Oro es un champú especialmente indicado tras trabajos técnicos para aportar un extra de proteínas al cabello. Su fórmula combinada con una base para el lavado suave y delicada, con un hidrolizado de proteínas que actúa sobre el cabello, proporciona un resultado con protección, brillo, manejabilidad y cuerpo.</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 anchor">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/whiteblanco.fw.png" alt="" title="">
+                                <h4> </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> white blanco   </a>
+                            </h4>
+                            <p> es un champú especialmente indicado para cabellos canosos ya que elimina los tonos amarillos, devolviendo el brillo y la luminosidad del cabello bien cuidado. Su fórmula incorpora una combinación de colorantes semipermanentes con una tonalidad violeta que garantiza la eliminación progresiva de la tonalidad amarillenta de los cabellos canosos.</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 magic">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/mascarillagermendetrigo.fw.png" alt="" title="">
+                                <h4>mascarilla germen de trigo </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> mascarilla germen de trigo</a>
+                            </h4>
+                            <p>
+							<br>
+							Mascarilla hidratante intensiva de efecto  progresivo, especial para recuperar cabellos deshidratados y castigados.
+								<br>
+								</p>
+                        </div>
+                    </div>
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 desktop">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/aceiteesencialacondicionador.fw.png" alt="" title=""> 
+                                <h4>aceite esencial acondicionador </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> aceite esencial acondicionador  </a>
+                            </h4>
+                            <p>es un tratamiento en ampolleta ideal para cabellos secos, tratados y/o tinturados. Su fórmula con proteínas de seda proporciona una acción profunda de hidratación interna, recuperando la humedad del cabello.</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 trophy">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/megaacondicionadorar.fw.png" alt="" title="">
+                                <h4>mega acondicionadora</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> mega acondicionadora</a>
+                            </h4>
+                            <p>Ampolleta reestructurante de hidratación capilar profunda para cabellos maltratados y secos. Con acción termo activa.</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 plane">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/kera-plus.fw.png" alt="" title="">
+                                <h4> kera-plus</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">kera-plus </a>
+                            </h4>
+                            <p>Ampolleta de uso frecuente para el alisado.Su alto contenido en keratina deja el cabello más manejable y con más brillo.</p>
+                        </div>
+                    </div>
+					
+						<div class="hr-invisible-small"></div>
+                    
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 cog">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/grapeology.fw.png" alt="" title="">
+                                <h4>grapeology</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> grapeology</a>
+                            </h4>
+                            <p>El aceite a base de pepita de uva nutre e hidrata en profundidad es rico en antioxidantes, mejora el brillo del cabello y previene los daños de los agentes externos.Actúa como reparador capilar y protector de la queratina, previniendo el envejecimiento del cabello </p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 anchor">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/DAILY ANTI-BREAKAGE FLUID.fw.png" alt="" title="">
+                                <h4> DAILY ANTI-BREAKAGE FLUID</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> DAILY ANTI-BREAKAGE FLUID  </a>
+                            </h4>
+                            <p>Sigue diariamente con el proceso de reparación, sellando las cutículas y creando una barrera de protección antirrotura. 
+							Los cabellos se rellenan sin perder fluidez ni suavidad.
+							$260
+                            Sin enjuague  
+							</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 magic">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE LOTION.fw.png" alt="" title="">
+                                <h4>REPARATIVE LOTION  </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> REPARATIVE LOTION  </a>
+                            </h4>
+                            <p>
+							<br>tratamiento de reestructuración instantánea de los daños de la fibra capilar desfibrada y frágil.
+							usando diariamente, los cabellos recobran su vigor natural.
+							$70c/u sin enjuagar
+
+													
+								<br>
+								</p>
+                        </div>
+                    </div>
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 desktop">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/frizz control shampoo.fw.png" alt="" title=""> 
+                                <h4> frizz control shampoo </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">  frizz control shampoo </a>
+                            </h4>
+                            <p>Controla y suaviza los cabellos sin apelmazarlos haciéndolos más fáciles  de mantener y más luminosos 
+							$215</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 trophy">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/FRIZZ CONTROL BUTTER MASK.fw.png" alt="" title="">
+                                <h4> frizz control butter mask </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> FRIZZ CONTROL BUTTER MASK</a>
+                            </h4>
+                            <p>Tratamiento antiaspereza, garantiza suavidad, control y luminosidadintensa.
+							$320</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 plane">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ENERGIZING LOTION.fw.png" alt="" title="">
+                                <h4> ENERGIZING LOTION  </h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> ENERGIZING LOTION   </a>
+                            </h4>
+                            <p>Concentrado energizante intensivo la fibra capilar, haciéndola mas fuerte y resistente con efecto hot-ice</p>
+                        </div>
+                    </div>
+					
+						<div class="hr-invisible-small"></div>
+                    
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 cog">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/PURIFY SHAMPOO.fw.png" alt="" title="">
+                                <h4>PURIFY SHAMPOO</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> PURIFY SHAMPOO</a>
+                            </h4>
+                            <p>Elimina la caspa desde la primera aplicación y retrasa su aplicación. De alivio, reduce picor y ayuda al cuero cabelludo  a readquirir el equilibrio adecuado dejando el cabello luminoso 
+							$ 215</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 anchor">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING HAIRSPRAY.fw.png" alt="" title="">
+                                <h4> ILLUMINATING HAIRSPRAY</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> ILLUMINATING HAIRSPRAY  </a>
+                            </h4>
+                            <p>El ultimo toque para tener los reflectores apuntados sobre nuestro peinado.
+							Sigue el movimiento de los cabellos sin apelmazrlos 
+							$250</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 magic">
+                            <div class="icon">   
+                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING EXTRA STRONG HAIRSPRAY.fw.png" alt="" title="">
+                                <h4> ILLUMINATING EXTRA STRONG HAIRSPRAY</h4>            
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> ILLUMINATING EXTRA STRONG HAIRSPRAY </a>
+                            </h4>
+                            <p>
+							<br>
+							Un toque de luz absoluto de larga duración para unos resultados más estructurados.
+                            Fijador extremo que dura todo el día, eliminándose con algunos simples cepillados 
+							$250
+							
+								<br>
+								</p>
+                        </div>
+                    </div>
+                    
+					
+						<?php  /** cierre descripcion de productos salerm**/ ?>
+                    </div>
                     </div>
                     <div class="dt-sc-tabs-frame-content dt-sc-ico-content">
                     	<div class="alignleft">
