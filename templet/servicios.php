@@ -21,19 +21,39 @@
                             <li class="btn-eff3" > secados y planchados </li>
                             <li class="btn-eff3" > tintes,mechas y tratamientos </li>
                             <li class="btn-eff3" > uñas,manicure y pedicure </li>
-                        </ul>   
+                        </ul>  
+                <div class="clear"></div>
+                <div class="hr-invisible"></div>
+                <div class="fullwidth-section dt-sc-parallax-section appointment-parallax dark-bg" style="background-position: 20% 3px;">
+                    <div class="fullwidth-bg">
+                    	<div class="parallax-spacing">
+                    		<div class="container">
+                            	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
+                                <div class="aligncenter">
+                                	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
+                              	</div>
+                            </div>
+                        </div>
+                   	</div>
+             	</div> 						
                         <div class="hr-invisible"></div>                         
                         <div class="dt-sc-tabs-frame-content">
                         	<div class="alignleft">
-                            	<div class="services-container alignleft">
+                            	<div class="services-container alignright">
                                 	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-tab-img1.jpg" alt="" title="" >
                                     <div class="dt-sc-view-btn">
-                                    	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="btn-eff2"> View Gallery </a>
+                                    	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="btn-eff2"> Ver galeria </a>
                                     </div>
-                                    <div class="text-align=center">
-                                        <h3> para <span>ellos</span> </h3>
+									<div class="alignright"></div>
+									<ul class="dt-sc-fancy-list check">
+									 </ul>
+                                    <div class="text-align=alignright">
+                                        <h3 class="alignright"> para <span>ellos</span> </h3>
+										 <br>
+										 <br>
+										 <br>
                                        
-                                        <ul class="dt-sc-fancy-list check">
+                                        <ul class="alignright">
                                             <li> Corte de cabello </li>
                                             <li> Barba </li>
 											<li> Tinte </li>
@@ -56,7 +76,7 @@
                                     <div class="text-align=center">
                                         <h3> para <span>ellas</span> </h3>
                                         
-                                        <ul class="dt-sc-fancy-list check">
+                                        <ul class="alignleft">
                                             <li> corte de cabello </li>
                                             <li> Depilaciones </li>
                                             <li> Maquillaje </li>
@@ -68,17 +88,13 @@
 											<li> uñas</li>
                                             <li> gelish  </li>
                                             <li> tratamientos capilares</li>
-
                                         </ul>
                                     </div>
                                 </div>	
                             </div>
                         </div>
-                        
-                       
-                        <div class="aligncenter">
-                        	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="appointment-btn btn-eff2"><i class="fa fa-pencil-square-o"></i> <span>Aparta tu cita </span></a>
-                        </div>
+                        <br>
+									
                     </div>
                 </div>
                 <div class="clear"></div>

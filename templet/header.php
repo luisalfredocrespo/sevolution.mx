@@ -124,7 +124,7 @@
                             </li>
                             <li class=""><a href="<?php echo RUTA_ACTUAL; ?>servicios">Servicios</a></li>
 							
-							 <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>productos">producto</a></li>
+							<?php /* <ul  <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>productos">producto</a></li> </ul> */ ?>
                             
                             
                             <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>luis">Galeria</a>

@@ -2,6 +2,21 @@
                     <h4 class="border-title alignleft sub-title">  </h4>
                     <div class="clear"></div>
                     <div class="hr-invisible-small"></div>
+					<div class="clear"></div>
+                <div class="hr-invisible"></div>
+                <div class="fullwidth-section dt-sc-parallax-section appointment-parallax dark-bg" style="background-position: 20% 3px;">
+                    <div class="fullwidth-bg">
+                    	<div class="parallax-spacing">
+                    		<div class="container">
+                            	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
+                                <div class="aligncenter">
+                                	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
+                              	</div>
+                            </div>
+                        </div>
+                   	</div>
+             	</div> 
+					
                     <ul class="dt-sc-tabs-frame dt-sc-ico-content type3">	
                         <li>
                            <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/iconoalfaparf.fw.png" alt="" title="">
