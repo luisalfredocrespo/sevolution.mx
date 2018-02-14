@@ -39,13 +39,14 @@
 							<br> 
                             <h5> </h5>
                         </li>
+						<?php  /** cierre descripcion de productos salerm
                         <li>
                             <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/iconotecitaly.fw.png" alt="" title="">
 							<br> 
 							<br> 
 							<br> 
                             <h5> </h5>
-                        </li>
+                        </li>**/ ?>
                     </ul>
                     <div class="hr-invisible-medium"></div>                           
                     <div class="dt-sc-tabs-frame-content dt-sc-ico-content">
@@ -871,130 +872,7 @@
                             <p>El aceite a base de pepita de uva nutre e hidrata en profundidad es rico en antioxidantes, mejora el brillo del cabello y previene los daños de los agentes externos.Actúa como reparador capilar y protector de la queratina, previniendo el envejecimiento del cabello </p>
                         </div>
                     </div>
-                    <div class="column dt-sc-one-third">
-                        <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/DAILY ANTI-BREAKAGE FLUID.fw.png" alt="" title="">
-                                <h4> DAILY ANTI-BREAKAGE FLUID</h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> DAILY ANTI-BREAKAGE FLUID  </a>
-                            </h4>
-                            <p>Sigue diariamente con el proceso de reparación, sellando las cutículas y creando una barrera de protección antirrotura. 
-							Los cabellos se rellenan sin perder fluidez ni suavidad.
-							$260
-                            Sin enjuague  
-							</p>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-third">
-                        <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE LOTION.fw.png" alt="" title="">
-                                <h4>REPARATIVE LOTION  </h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> REPARATIVE LOTION  </a>
-                            </h4>
-                            <p>
-							<br>tratamiento de reestructuración instantánea de los daños de la fibra capilar desfibrada y frágil.
-							usando diariamente, los cabellos recobran su vigor natural.
-							$70c/u sin enjuagar
-
-													
-								<br>
-								</p>
-                        </div>
-                    </div>
-                    <div class="hr-invisible-small"></div>
-                    <div class="column dt-sc-one-third first">
-                        <div class="dt-sc-ico-content type4 desktop">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/frizz control shampoo.fw.png" alt="" title=""> 
-                                <h4> frizz control shampoo </h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#">  frizz control shampoo </a>
-                            </h4>
-                            <p>Controla y suaviza los cabellos sin apelmazarlos haciéndolos más fáciles  de mantener y más luminosos 
-							$215</p>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-third">
-                        <div class="dt-sc-ico-content type4 trophy">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/FRIZZ CONTROL BUTTER MASK.fw.png" alt="" title="">
-                                <h4> frizz control butter mask </h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> FRIZZ CONTROL BUTTER MASK</a>
-                            </h4>
-                            <p>Tratamiento antiaspereza, garantiza suavidad, control y luminosidadintensa.
-							$320</p>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-third">
-                        <div class="dt-sc-ico-content type4 plane">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ENERGIZING LOTION.fw.png" alt="" title="">
-                                <h4> ENERGIZING LOTION  </h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> ENERGIZING LOTION   </a>
-                            </h4>
-                            <p>Concentrado energizante intensivo la fibra capilar, haciéndola mas fuerte y resistente con efecto hot-ice</p>
-                        </div>
-                    </div>
-					
-						<div class="hr-invisible-small"></div>
-                    
-                    <div class="hr-invisible-small"></div>
-                    <div class="column dt-sc-one-third first">
-                        <div class="dt-sc-ico-content type4 cog">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/PURIFY SHAMPOO.fw.png" alt="" title="">
-                                <h4>PURIFY SHAMPOO</h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> PURIFY SHAMPOO</a>
-                            </h4>
-                            <p>Elimina la caspa desde la primera aplicación y retrasa su aplicación. De alivio, reduce picor y ayuda al cuero cabelludo  a readquirir el equilibrio adecuado dejando el cabello luminoso 
-							$ 215</p>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-third">
-                        <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING HAIRSPRAY.fw.png" alt="" title="">
-                                <h4> ILLUMINATING HAIRSPRAY</h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> ILLUMINATING HAIRSPRAY  </a>
-                            </h4>
-                            <p>El ultimo toque para tener los reflectores apuntados sobre nuestro peinado.
-							Sigue el movimiento de los cabellos sin apelmazrlos 
-							$250</p>
-                        </div>
-                    </div>
-                    <div class="column dt-sc-one-third">
-                        <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
-                            	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING EXTRA STRONG HAIRSPRAY.fw.png" alt="" title="">
-                                <h4> ILLUMINATING EXTRA STRONG HAIRSPRAY</h4>            
-                            </div>
-                            <h4>
-                                <a target="_blank" href="#"> ILLUMINATING EXTRA STRONG HAIRSPRAY </a>
-                            </h4>
-                            <p>
-							<br>
-							Un toque de luz absoluto de larga duración para unos resultados más estructurados.
-                            Fijador extremo que dura todo el día, eliminándose con algunos simples cepillados 
-							$250
-							
-								<br>
-								</p>
-                        </div>
-                    </div>
+                  
                     
 					
 						<?php  /** cierre descripcion de productos salerm**/ ?>

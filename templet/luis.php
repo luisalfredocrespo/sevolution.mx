@@ -16,222 +16,629 @@
                     <div class="hr-invisible-very-small"></div>
                     <div class="container">
                         <div class="dt-sc-sorting-container">
-                            <a data-filter=".all-sort" class="btn-eff3 active-sort" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" > uñas </a>     
-                            <a data-filter=".cutting" class="btn-eff3" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" > Beard Cutting </a>
-                            <a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" data-filter=".coloring" class="btn-eff3"> Coloring & Styling </a>         
-                            <a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" data-filter=".facial" class="btn-eff3"> Facial & Skin Therapy </a> 
+                            <a data-filter=".all-sorte" class="btn-eff3 active-sort" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" >cortes de damas </a>     
+							<a data-filter=".all-sortes" class="btn-eff3 " href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" >cortes de caballero </a>     
+                            <a data-filter=".cutting" class="btn-eff3" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" >  Rayos</a>
+							  <a data-filter=".all-sort" class="btn-eff3 "href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" > uñas </a>   
                         </div>
                     </div>
                     <div class="clear"></div>
                     <div class="dt-sc-portfolio-container isotope no-space"> <!-- **dt-sc-portfolio-container Starts Here** -->
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort facial">
+					<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas1.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte1.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img1.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort cutting coloring ">
+						
+						<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte2.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte3.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                <div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte4.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte5.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte6.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte7.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte8.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sorte">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/corte9.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero1.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero2.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero3.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                <div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero4.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero5.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero6.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero7.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+								<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero8.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                                
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero9.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero10.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero11.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero12.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero13.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero14.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero15.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space all-sortes">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/caballero16.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="portfolio dt-sc-one-fourth column no-space all-sort ">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas1.jpg" alt="portfolio1" title="">
+								
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas2.jpg" ></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas2.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" ></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort cutting facial coloring ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" alt="portfolio3" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas3.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" ></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort cutting facial mens ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img4.jpg" alt="portfolio4" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas4.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img4.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg"></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort fashion mens ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img5.jpg" alt="portfolio5" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas5.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img5.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort cutting fashion ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img6.jpg" alt="portfolio6" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas6.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img6.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort coloring ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img7.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas7.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img7.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></i></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort coloring ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img8.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas8.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img8.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort fashion mens ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img12.jpg" alt="portfolio5" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas9.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img12.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort cutting fashion ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img11.jpg" alt="portfolio6" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas10.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img11.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort facial ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img13.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas11.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img13.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort facial ">
+						<div class="portfolio dt-sc-one-fourth column no-space all-sort ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img9.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/uñas12.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img9.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img2.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort fashion mens ">
+                        <div class="portfolio dt-sc-one-fourth column no-space  cutting ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img10.jpg" alt="portfolio5" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos1.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img10.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort cutting fashion ">
+						 <div class="portfolio dt-sc-one-fourth column no-space  cutting ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img14.jpg" alt="portfolio6" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos2.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img14.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort coloring ">
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img15.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos3.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img15.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="portfolio dt-sc-one-fourth column no-space all-sort facial ">
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
                             <figure>
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img16.jpg" alt="portfolio1" title="">
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos4.jpg" alt="portfolio2" title="">
                                 <figcaption>
                                     <div class="fig-content">
-                                        <ul class="cart-whislist">
-                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img16.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"><i class="fa fa-search-plus"></i></a></li>
-                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ><i class="fa fa-external-link"></i></a></li>
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
 										</ul>
                                     </div>
                                 </figcaption>
                             </figure>
-                        </div>                        
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos5.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos6.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos7.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos8.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul >
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						<div class="portfolio dt-sc-one-fourth column no-space  cutting ">
+                            <figure>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/rayos9.jpg" alt="portfolio2" title="">
+                                <figcaption>
+                                    <div class="fig-content">
+                                        <ul>
+                                        	<li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/portfolio-images/portfolio-img3.jpg" data-gal="prettyPhoto[gallery]" class="button wpshop-cart-button add_to_cart_button product_type_simple"></i></a></li>
+                                            <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>portfolio-details.html" ></a></li>
+										</ul>
+                                    </div>
+                                </figcaption>
+                            </figure>
+                        </div>
+						
+                                
+                                             
                     </div> <!-- **dt-sc-portfolio-container Ends Here** -->      
                 </div>
 				<div class="clear"></div>
