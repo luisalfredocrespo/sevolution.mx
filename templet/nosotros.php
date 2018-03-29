@@ -9,22 +9,20 @@
                             </div>
                         </div>
                    	</div>
-<<<<<<< HEAD
+
   </div>
 
 <div class="container"><!-- Container -->
                <h2 class="border-title aligncenter">
                     Salon Evolution
                  </h2>
-                 <font color=red><p class="aligncenter">Abre sus puertas 
+                 <font color=black><h4 class="aligncenter">Abre sus puertas 
 el 10 de agosto 2002 en calle 11 # 47 colonia Espartaco Coyoacán y 
 inicia con el nombre de estética capricornio el 22 de octubre cambia de 
 dirección avenida 4 # 87 colonia Espartaco Coyoacán el cual a estado 
 trabajando de la mano con los productos ALFA PARF (ITALIANOS) , tec 
-Italy (ilaliano) , salerm (español) el cual nos accesoramos   ggggnn</p></font>
+Italy (ilaliano) , salerm (español) el cual nos accesoramos  </h4></font>
          <div class="clear"></div>
  </div> 				
-=======
-                    <h3>  hola</h3>
+
              	</div> 				
->>>>>>> 8be3bc3cc47857a606ba7468555daae617d6aac3

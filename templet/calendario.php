@@ -1,3 +1,4 @@
+
 <div class="hr-invisible-small"></div>
                     <h4 class="border-title alignleft sub-title">  </h4>
                     <div class="clear"></div>
@@ -58,33 +59,33 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ampolleta.jpg" alt="" title="">
-                                <h4>illuminating essential oil</h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> illuminating essential oil</a>
                             </h4>
                             <p>tratamiento intensivo amplificador de la luz reduce las asperezas superficiales de fibre capilar y cierra as cuticulas. 
-							$ 70 c/u</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/morada.jpg" alt="" title="">
-                                <h4> illuminating shine lotioon</h4>            
+                                    
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> illuminating shine lotioon  </a>
                             </h4>
                             <p>tratamiento intensivo revitalizador y perfeccionador, aporta elasticidad y devuelve a los cabellos su brillo natural.
-							$70 c/u</p>
+							 </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img1.png" alt="" title="">
-                                <h4> illuminating shampoo </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> illuminating shampoo  </a>
@@ -92,7 +93,7 @@
                             <p>
 							<br>
 							una ligera caricia de luz para los cabellos. Fibra capilar suave y revitaliza que resplende al instante, con un efecto duradero.
-                                $ 215							
+                                							
 								<br>
 								</p>
                         </div>
@@ -102,38 +103,38 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img2.png" alt="" title=""> 
-                                <h4> ILLUMUNATING MASK  </h4>            
+                                        
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  ILLUMUNATING MASK  </a>
                             </h4>
                             <p>Revitaliza intensamente la fribra capilar para unos cabellos suaves y fluidos, que difunden una luminosidad intensa y vibrante.
-							$320</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img3.png" alt="" title="">
-                                <h4> EXTRAORDINARY ALL-IN-1 FLUID</h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> EXTRAORDINARY ALL-IN-1 FLUID </a>
                             </h4>
                             <p>Protege el color cosmético, desenreda los cabellos, protege contra los rayos UVA y UVB, previne la formación de puntas abiertas, controla el peinado, combate el efecto de la humedad, sella las cutículas.
-							$280</p>
+						</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/product-img4.png" alt="" title="">
-                                <h4> CRISTALLI LIQUIDI</h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> CRISTALLI LIQUIDI </a>
                             </h4>
-                            <p>Tale detraxit accusata et mel, ex nobis fabulas vituperata est mel quodsi labitur graecis eu. Curabitur sed purus fringilla laoreet. Donec fermentum eget nisl non porta. In consequat commodo lorem eu posuere.$350</p>
+                            <p>Tale detraxit accusata et mel, ex nobis fabulas vituperata est mel quodsi labitur graecis eu. Curabitur sed purus fringilla laoreet. Donec fermentum eget nisl non porta. In consequat commodo lorem eu posuere.</p>
                         </div>
                     </div>
 					
@@ -145,20 +146,20 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/nutrive shampoo.jpg" alt="" title="">
-                                <h4>NUTRITIVE SHAMPOO</h4>            
+                                            
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> NUTRITIVE SHAMPOO</a>
                             </h4>
                             <p>Limpieza y nutricion sinb apelmezar, para una suavidad y una sedosidad caracteristica de los cabello sanos.
-							$215</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/nutrivemask.jpg" alt="" title="">
-                                <h4> NUTRITIVE MASK </h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> NUTRITIVE MASK  </a>
@@ -170,7 +171,7 @@
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/nutritive leave in conditioner.JPG" alt="" title="">
-                                <h4>NUTRITIVE LEAVE-IN CONDITIONER </h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> NUTRITIVE LEAVE-IN CONDITIONER </a>
@@ -179,7 +180,7 @@
 							<br>
 							Siaviza con delicadeza la fibre capilar y aumenta la fkexibilidad de los cabellos.
                             SIN ENJUAGUE.
-							$260
+							
 								<br>
 								</p>
                         </div>
@@ -189,39 +190,39 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/NUTRITIVE ESSENTIAL OIL.JPG" alt="" title=""> 
-                                <h4>NUTRITIVE ESSENTIAL OIL </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> NUTRITIVE ESSENTIAL OIL  </a>
                             </h4>
                             <p>Revitaliza intensamente la fribra capilar para unos cabellos suaves y fluidos, que difunden una luminosidad intensa y vibrante.
-							$320</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/SPLIT ENDS RECOVERY FLUID.jpg" alt="" title="">
-                                <h4>SPLIT ENDS RECOVERY FLUID</h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> SPLIT ENDS RECOVERY FLUID </a>
                             </h4>
                             <p>producto específico para la zona más frágil de los cabellos secos: las puntas. Sella las puntas secas y desfibradas, formando un velo invisible que las envuelve, reforzándolas y enriquece la fibra capilar, evitando que se rompa.
 							SIN ENJUAGUE
-							$260</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE SHAMPOO.jpg" alt="" title="">
-                                <h4> REPARATIVE SHAMPOO</h4>            
+                                            
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> REPARATIVE SHAMPOO </a>
                             </h4>
-                            <p>Actúa sobre el corazón de la fibra, cubriendo las carencias de los elementos que le faltan $215</p>
+                            <p>Actúa sobre el corazón de la fibra, cubriendo las carencias de los elementos que le faltan </p>
                         </div>
                     </div>
 					
@@ -232,28 +233,28 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE mask.fw.png" alt="" title="">
-                                <h4>REPARATIVE MASK </h4>            
+                                            
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> REPARATIVE MASK </a>
                             </h4>
                             <p>Consolida, refuerza y reestructura la corteza, aumentando la resistencia a la rotura. 
 							Los cabellos desfribrados se reconsituyen y adquieren de nuevo gradualmente su belleza natural.
-							$320</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/DAILY ANTI-BREAKAGE FLUID.fw.png" alt="" title="">
-                                <h4> DAILY ANTI-BREAKAGE FLUID</h4>            
+                                            
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> DAILY ANTI-BREAKAGE FLUID  </a>
                             </h4>
                             <p>Sigue diariamente con el proceso de reparación, sellando las cutículas y creando una barrera de protección antirrotura. 
 							Los cabellos se rellenan sin perder fluidez ni suavidad.
-							$260
+							
                             Sin enjuague  
 							</p>
                         </div>
@@ -262,7 +263,7 @@
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE LOTION.fw.png" alt="" title="">
-                                <h4>REPARATIVE LOTION  </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> REPARATIVE LOTION  </a>
@@ -270,7 +271,7 @@
                             <p>
 							<br>tratamiento de reestructuración instantánea de los daños de la fibra capilar desfibrada y frágil.
 							usando diariamente, los cabellos recobran su vigor natural.
-							$70c/u sin enjuagar
+							 sin enjuagar
 
 													
 								<br>
@@ -282,33 +283,33 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/frizz control shampoo.fw.png" alt="" title=""> 
-                                <h4> frizz control shampoo </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  frizz control shampoo </a>
                             </h4>
                             <p>Controla y suaviza los cabellos sin apelmazarlos haciéndolos más fáciles  de mantener y más luminosos 
-							$215</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/FRIZZ CONTROL BUTTER MASK.fw.png" alt="" title="">
-                                <h4> frizz control butter mask </h4>            
+                                        
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> FRIZZ CONTROL BUTTER MASK</a>
                             </h4>
                             <p>Tratamiento antiaspereza, garantiza suavidad, control y luminosidadintensa.
-							$320</p>
+							</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ENERGIZING LOTION.fw.png" alt="" title="">
-                                <h4> ENERGIZING LOTION  </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> ENERGIZING LOTION   </a>
@@ -324,34 +325,32 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/PURIFY SHAMPOO.fw.png" alt="" title="">
-                                <h4>PURIFY SHAMPOO</h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> PURIFY SHAMPOO</a>
                             </h4>
-                            <p>Elimina la caspa desde la primera aplicación y retrasa su aplicación. De alivio, reduce picor y ayuda al cuero cabelludo  a readquirir el equilibrio adecuado dejando el cabello luminoso 
-							$ 215</p>
+                            <p>Elimina la caspa desde la primera aplicación y retrasa su aplicación. De alivio, reduce picor y ayuda al cuero cabelludo  a readquirir el equilibrio adecuado dejando el cabello luminoso.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING HAIRSPRAY.fw.png" alt="" title="">
-                                <h4> ILLUMINATING HAIRSPRAY</h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> ILLUMINATING HAIRSPRAY  </a>
                             </h4>
                             <p>El ultimo toque para tener los reflectores apuntados sobre nuestro peinado.
-							Sigue el movimiento de los cabellos sin apelmazrlos 
-							$250</p>
+							Sigue el movimiento de los cabellos sin apelmazrlos. </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING EXTRA STRONG HAIRSPRAY.fw.png" alt="" title="">
-                                <h4> ILLUMINATING EXTRA STRONG HAIRSPRAY</h4>            
+                                        
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> ILLUMINATING EXTRA STRONG HAIRSPRAY </a>
@@ -360,7 +359,7 @@
 							<br>
 							Un toque de luz absoluto de larga duración para unos resultados más estructurados.
                             Fijador extremo que dura todo el día, eliminándose con algunos simples cepillados 
-							$250
+							
 							
 								<br>
 								</p>
@@ -379,38 +378,38 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/oil essences.fw.png" alt="" title="">
-                                <h4>oil essences</h4>            
+                                       
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> oil essences</a>
                             </h4>
-                            <p>OIL ESSENCES te aportará brillo, vigor, hidratación y protección, a la vez que combaten el encrespamiento y los síntomas de la edad de tu cabello. $ 350</p>
+                            <p>OIL ESSENCES te aportará brillo, vigor, hidratación y protección, a la vez que combaten el encrespamiento y los síntomas de la edad de tu cabello. </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/oil essences ethernal moringa.png" alt="" title="">
-                                <h4> oil essences ethernal moringa</h4>            
+                                        
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> </a>
                             </h4>
-                            <p>En cierto modo se rejuvenece el cabello desde su interior. Además, estos mismos minerales y vitaminas hacen que el cabello sea más fuerte y lucha contra la caspa y las puntas abiertas $350</p>
+                            <p>En cierto modo se rejuvenece el cabello desde su interior. Además, estos mismos minerales y vitaminas hacen que el cabello sea más fuerte y lucha contra la caspa y las puntas abiertas.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/OIL ESSENCES 10ML..fw.png" alt="" title="">
-                                <h4> OIL ESSENCES 10ML</h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> OIL ESSENCES 10ML </a>
                             </h4>
                             <p>
 							<br>
-							Concentrado del aceite Essences para una recuperación del brillo y la vitalidad del cabello de una forma intensa y rápida $ 80						
+							Concentrado del aceite Essences para una recuperación del brillo y la vitalidad del cabello de una forma intensa y rápida.					
 								<br>
 								</p>
                         </div>
@@ -420,45 +419,28 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/OIL ESSENCES ETHERNAL 10ML..fw.png" alt="" title=""> 
-                                <h4>OIL ESSENCES ETHER 10ML </h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  OIL ESSENCES ETHER 10ML </a>
                             </h4>
-                            <p>Aplica una pequeña cantidad de Oil Essences Ethernal Moringa en la palma de la mano y distribuye sobre el cabello, una vez lavado. Peinar como de costumbre $ 80</p>
+                            <p>Aplica una pequeña cantidad de Oil Essences Ethernal Moringa en la palma de la mano y distribuye sobre el cabello, una vez lavado. Peinar como de costumbre </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/hair cream 360.fw.png" alt="" title="">
-                                <h4> hair cream 360</h4>            
+                                        
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> hair cream 360 </a>
                             </h4>
-                            <p>proporciona mas de diez beneficios en un solo producto .Este sistema sin enjuagado es un efectivo reparador de la fibra capilar que aporta beneficios visibles para el cabello desde la primera aplicacion.$150 </p>
+                            <p>proporciona mas de diez beneficios en un solo producto .Este sistema sin enjuagado es un efectivo reparador de la fibra capilar que aporta beneficios visibles para el cabello desde la primera aplicacion. </p>
                         </div>
                     </div>
                    
-					
-                    	
-						
-                    
-                    
-                    
-                    
-                    
-                    
-            
-					
-						
-                    
-                    
-                    
-                    
-                   
-                    
+				
 						<?php  /** cierre descripcion de productos LENDA**/ ?>
                     </div>
                     <div class="dt-sc-tabs-frame-content dt-sc-ico-content">
@@ -471,7 +453,7 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/straightening spray.fw.png" alt="" title="">
-                                <h4>straightening spray</h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> straightening spray</a>
@@ -483,7 +465,7 @@
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/volumedust01.fw.png" alt="" title="">
-                                <h4> volume dust 01</h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> volume dust 01  </a>
@@ -500,7 +482,7 @@
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/mattclay02.fw.png" alt="" title="">
-                                <h4> matt clay 02</h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#">matt clay 02 </a>
@@ -515,7 +497,7 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/lissfoam01.fw.png" alt="" title=""> 
-                                <h4> liss foam 01  </h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  liss foam 01  </a>
@@ -527,7 +509,7 @@
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tratamientohirepair.fw.png" alt="" title="">
-                                <h4> tratamiento hi repair </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#">tratamiento hi repair </a>
@@ -543,7 +525,7 @@
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/balsamwithprotein.fw.png" alt="" title="">
-                                <h4>balsam with protein </h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> balsam with protein  </a>
@@ -560,7 +542,7 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/protein.fw.png" alt="" title="">
-                                <h4>protein </h4>            
+                                     
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> protein </a>
@@ -572,7 +554,7 @@
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/whiteblanco.fw.png" alt="" title="">
-                                <h4> </h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> white blanco   </a>
@@ -584,7 +566,7 @@
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/mascarillagermendetrigo.fw.png" alt="" title="">
-                                <h4>mascarilla germen de trigo </h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> mascarilla germen de trigo</a>
@@ -601,7 +583,7 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/aceiteesencialacondicionador.fw.png" alt="" title=""> 
-                                <h4>aceite esencial acondicionador </h4>            
+                                       
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> aceite esencial acondicionador  </a>
@@ -613,7 +595,7 @@
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/megaacondicionadorar.fw.png" alt="" title="">
-                                <h4>mega acondicionadora</h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> mega acondicionadora</a>
@@ -625,7 +607,7 @@
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/kera-plus.fw.png" alt="" title="">
-                                <h4> kera-plus</h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#">kera-plus </a>
@@ -641,7 +623,7 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                             	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/grapeology.fw.png" alt="" title="">
-                                <h4>grapeology</h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> grapeology</a>
@@ -665,7 +647,7 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/olio vital.fw.png" alt="" title="">
-                                <h4>olio vital</h4>            
+                                   
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> olio vital</a>
@@ -682,7 +664,7 @@
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/postcolor.fw.png" alt="" title="">
-                                <h4> shampoo post color </h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> shampoo post color </a>
@@ -694,7 +676,7 @@
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy due faccetta lunga durata.fw.png" alt="" title="">
-                                <h4>  due faccetta lunga durata  </h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  due faccetta lunga durata  </a>
@@ -713,7 +695,7 @@
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampoo balsami presto tec italy.fw.png" alt="" title=""> 
-                                <h4> shampoo balsami presto  </h4>            
+                                           
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  shampoo balsami presto </a>
@@ -725,7 +707,7 @@
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/balsami presto tec italy.fw.png" alt="" title="">
-                                <h4> balsami presto</h4>            
+                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#">  balsami presto </a>
@@ -739,7 +721,7 @@
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina shampoo.fw.png" alt="" title="">
-                                <h4> lumina shampoo</h4>            
+                                      
                             </div>
                             <h4>
                                 <a target="_blank" href="#">lumina shampoo </a>
@@ -757,7 +739,7 @@
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina conditioner.fw.png" alt="" title="">
-                                <h4>lumina conditioner</h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> lumina conditioner</a>
@@ -769,7 +751,7 @@
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina forza colore.fw.png" alt="" title="">
-                                <h4> lumina forza colore </h4>            
+                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#">lumina forza colore  </a>
@@ -781,7 +763,7 @@
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy silk system shine.fw.png" alt="" title="">
-                                <h4>silk system shine </h4>            
+                                        
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> silk system shine</a>
@@ -795,40 +777,40 @@
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/NUTRITIVE ESSENTIAL OIL.JPG" alt="" title=""> 
-                                <h4>NUTRITIVE ESSENTIAL OIL </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy shampoo massimo.fw.png" alt="" title=""> 
+                                         
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> NUTRITIVE ESSENTIAL OIL  </a>
+                                <a target="_blank" href="#">Shampoo Massimo </a>
                             </h4>
-                            <p>Revitaliza intensamente la fribra capilar para unos cabellos suaves y fluidos, que difunden una luminosidad intensa y vibrante.
-                            $320</p>
+                            <p>Fórmula cristalina de recostrucción intensiva para el cabello. Brinda limpieza, acondicionamiento y humectación. Repara y estabiliza los aceites esenciales naturales del cabello, otorgándole brillo y suavidad. Ideal para cabellos dañados o químicamente procesados. </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
-                            <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/SPLIT ENDS RECOVERY FLUID.jpg" alt="" title="">
-                                <h4>SPLIT ENDS RECOVERY FLUID</h4>            
+                            <div class="icon"> <h6>SHAMPOO TOTALE</h6>
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampoo totale tec italy.fw.png" alt="" title="">
+                                     
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> SPLIT ENDS RECOVERY FLUID </a>
+                                <a target="_blank" href="#"> SHAMPOO TOTALE </a>
                             </h4>
-                            <p>producto específico para la zona más frágil de los cabellos secos: las puntas. Sella las puntas secas y desfibradas, formando un velo invisible que las envuelve, reforzándolas y enriquece la fibra capilar, evitando que se rompa.
-                            SIN ENJUAGUE
-                            $260</p>
+                            <p>Shampoo acondicionador para cabello seco y maltratado. Diseñado para ayudar a limpiary reacondicionar  simultáneamente el cabello, especialmente los maltratados por procesos químicos. Aporta a tu cabello, ya que está enriquecido por complejos proteínicos y botanícos. </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE SHAMPOO.jpg" alt="" title="">
-                                <h4> REPARATIVE SHAMPOO</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Blsami totale tec italy.fw.png" alt="" title="">
+                                         
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> REPARATIVE SHAMPOO </a>
+                                <a target="_blank" href="#"> Balsami Totale</a>
                             </h4>
-                            <p>Actúa sobre el corazón de la fibra, cubriendo las carencias de los elementos que le faltan $215</p>
+                            <br>
+                            <br>
+                            <br>
+                            <p>Tratamiento acondicionador reconstructor nutritivo instantáneo que repara el cabello dañado, brindando brillo,sedosidad y desenredo.</p>
                         </div>
                     </div>
                     
@@ -838,89 +820,82 @@
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE mask.fw.png" alt="" title="">
-                                <h4>REPARATIVE MASK </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/due faccetta massimo tec italy.fw.png" alt="" title="">
+                                          
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> REPARATIVE MASK </a>
+                                <a target="_blank" href="#"> Due Faccetta Massimo</a>
                             </h4>
-                            <p>Consolida, refuerza y reestructura la corteza, aumentando la resistencia a la rotura. 
-                            Los cabellos desfribrados se reconsituyen y adquieren de nuevo gradualmente su belleza natural.
-                            $320</p>
+                            <p>Tratamiento nutritivo instantáneo sin enjuague de dos fases para cabellos muy maltratdos por porcesos químicos, elementos ambientales y fuentes externas de calor. Hidrata, acondiciona y regula la porosidad del cabello. Cierra la cutícula y proporciona brillo al cabello.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/DAILY ANTI-BREAKAGE FLUID.fw.png" alt="" title="">
-                                <h4> DAILY ANTI-BREAKAGE FLUID</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampo tonico  tec italy.fw.png" alt="" title="">         
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> DAILY ANTI-BREAKAGE FLUID  </a>
+                                <a target="_blank" href="#"> shampo tonico</a>
                             </h4>
-                            <p>Sigue diariamente con el proceso de reparación, sellando las cutículas y creando una barrera de protección antirrotura. 
-                            Los cabellos se rellenan sin perder fluidez ni suavidad.
-                            $260
-                            Sin enjuague  
+                            <p>Tratamiento en shampoo para cabellos débiles, delgados y sin volumen. Combina los complejos proteínicos y botánicos que refuerzan y nutren el cabello. Ayuda a detener la caída prematura.Da un balance de lubricación y humedad al cuerpo cabelludo.
                             </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/REPARATIVE LOTION.fw.png" alt="" title="">
-                                <h4>REPARATIVE LOTION  </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/scultore fine tec italy.fw.png" alt="" title="">
+                                        
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> REPARATIVE LOTION  </a>
+                                <a target="_blank" href="#"> scultore fine   </a>
                             </h4>
                             <p>
-                            <br>tratamiento de reestructuración instantánea de los daños de la fibra capilar desfibrada y frágil.
-                            usando diariamente, los cabellos recobran su vigor natural.
-                            $70c/u sin enjuagar
-
-                                                    
-                                <br>
-                                </p>
+                            <br>Espectacular gel líquido creado parta trabajar con las manos, que ayuda a marcar y fijar rizos. Otorga cuerpo, textura y brillo al cabello. Contiene pantenol.  
+                            <br>  
+                            <br>
+                            </p>
                         </div>
                     </div>
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/frizz control shampoo.fw.png" alt="" title=""> 
-                                <h4> frizz control shampoo </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Gel della cera effetto normale tec italy.fw.png" alt="" title=""> 
+                                         
                             </div>
                             <h4>
-                                <a target="_blank" href="#">  frizz control shampoo </a>
+                                <a target="_blank" href="#">  Gel della cera effetto normale </a>
                             </h4>
-                            <p>Controla y suaviza los cabellos sin apelmazarlos haciéndolos más fáciles  de mantener y más luminosos 
-                            $215</p>
+                            <p>Cera gel para transformarmaciones instantáneas con fijación fuerte, que agiliza el proceso de estilizado dando un aparencia fresca y limpia; es fácil de remover y de larga duración, genera un efecto texturizado natural sin dejar residuos.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/FRIZZ CONTROL BUTTER MASK.fw.png" alt="" title="">
-                                <h4> frizz control butter mask </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Gel della cera effetto humedo tec italy.fw.png" alt="" title="">
+                                          
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> FRIZZ CONTROL BUTTER MASK</a>
+                                <a target="_blank" href="#"> Gel della cera effetto humedo </a>
                             </h4>
-                            <p>Tratamiento antiaspereza, garantiza suavidad, control y luminosidadintensa.
-                            $320</p>
+                            <p>Cera gel para transformarmaciones instantáneas con fijación fuerte, que agiliza el proceso de estilizado dando un aparencia fresca y limpia; es fácil de remover y dura todo el día  dando un  efecto texturizado húmedo sin dejar residuos.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ENERGIZING LOTION.fw.png" alt="" title="">
-                                <h4> ENERGIZING LOTION  </h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/volumi e corpo mousse tec italy.fw.png" alt="" title="">
+                                           
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> ENERGIZING LOTION   </a>
+                                <a target="_blank" href="#"> Volumi e Corpo Mousse  </a>
                             </h4>
-                            <p>Concentrado energizante intensivo la fibra capilar, haciéndola mas fuerte y resistente con efecto hot-ice</p>
+                            <br>
+                            <p>El más avanzado mousse creado para aportar extraordinario brillo. cuerpo y control a los peinados. Combina elementos proteínicos y herbales como tricone tricoerba.
+                            <br>
+                            </p>
+                            <br>
                         </div>
                     </div>
                     
@@ -930,47 +905,50 @@
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/PURIFY SHAMPOO.fw.png" alt="" title="">
-                                <h4>PURIFY SHAMPOO</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/gellini gel tec italy.fw.png" alt="" title="">
+                                          
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> PURIFY SHAMPOO</a>
+                                <a target="_blank" href="#"> Gellini gel </a>
                             </h4>
-                            <p>Elimina la caspa desde la primera aplicación y retrasa su aplicación. De alivio, reduce picor y ayuda al cuero cabelludo  a readquirir el equilibrio adecuado dejando el cabello luminoso 
-                            $ 215</p>
+                            <p>
+                            <br>Gel reactivable y de secado rápido con fijación extrema.Deja el cabello con aspecto mojado. Fórmula enriquecida con tricone y trecil-r.
+                            <br></p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING HAIRSPRAY.fw.png" alt="" title="">
-                                <h4> ILLUMINATING HAIRSPRAY</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/brillare trattanti tec italy.fw.png" alt="" title="">
+                                         
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> ILLUMINATING HAIRSPRAY  </a>
+                                <a target="_blank" href="#"> Brillare Trattanti  </a>
                             </h4>
-                            <p>El ultimo toque para tener los reflectores apuntados sobre nuestro peinado.
-                            Sigue el movimiento de los cabellos sin apelmazrlos 
-                            $250</p>
+                            <br>
+                            <br>
+                            <p>Poderoso tratamiento concentrado que se deja puesto, da máximo brillo y desenredo.Formulado con los más finos silicones.</p>
+                            <br>
+                            <br>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
                             <div class="icon">   
-                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/ILLUMINATING EXTRA STRONG HAIRSPRAY.fw.png" alt="" title="">
-                                <h4> ILLUMINATING EXTRA STRONG HAIRSPRAY</h4>            
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/brillare mist tec italy.fw.png" alt="" title="">
+                                          
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> ILLUMINATING EXTRA STRONG HAIRSPRAY </a>
+                                <a target="_blank" href="#"> brillare mist tec italy </a>
                             </h4>
                             <p>
                             <br>
-                            Un toque de luz absoluto de larga duración para unos resultados más estructurados.
-                            Fijador extremo que dura todo el día, eliminándose con algunos simples cepillados 
-                            $250
-                            
-                                <br>
-                                </p>
+                            <br>
+                            <br>
+                            El toque para estilizar su cabello. Brinda súper brillo instantáneo, y es un estraordinario reacondicionante.
+                            <br>
+                            <br>
+                            </p>
                         </div>
                     </div>
                     
