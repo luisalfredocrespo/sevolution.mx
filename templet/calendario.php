@@ -939,7 +939,7 @@
                                           
                             </div>
                             <h4>
-                                <a target="_blank" href="#"> brillare mist tec italy </a>
+                                <a target="_blank" href="#"> brillare mist </a>
                             </h4>
                             <p>
                             <br>
@@ -951,9 +951,107 @@
                             </p>
                         </div>
                     </div>
+                    <div class="dt-sc-tabs-frame-content dt-sc-ico-content">
+                        
+                      
+                        <div class="hr-invisible-small"></div>
+                    
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 cog">
+                            <div class="icon">   
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/pazzicera tec italy.fw.png" alt="" title="">
+                                   
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> Pazzicera </a>
+                            </h4>
+                             <br>
+                                <br>
+                                 <br>
+                                <br>
+                           Versátil cera para definir peinados. Ideal para jóvenes que desean un aspecto urbano/mate en su cabello y para peinados con aspectos con desenfadado. Sin brillo, especial para cabellos cortos y despeinados con una fijación media.</p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 anchor">
+                            <div class="icon">   
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Pasta della aragña  tec italy.fw.png" alt="" title="">
+                                          
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> Pasta della aragña </a>
+                            </h4>
+                            <p>Cera elástica con las más moderna tecnoligía para texturizar. Permite los procesos de treanformación más radicales posibles, creando volumen donde no lo hay. Gracias asu avanzada y exclusiva fórmula, logra gran definicíon en picos y mechones. </p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 magic">
+                            <div class="icon">   
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Stravaganza wax tec italy.fw.png" alt="" title="">
+                                          
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">  Stravaganza wax  </a>
+                            </h4>
+                            <p>
+                                <br>
+                                <br>
+                            <br>
+                            Cera de finalizado no grasosa con terminado mate. Crea estilos únicos, con tectura, moldeables y definidos. Gracias a su consistencia cremosa es de fácil distribucíon. Para todo tipo de cabello, ideal para cabellos cortos y estilos degrafilados. Cuenta con dos niveles de fijación: media y fuerte.                         
+                                <br>
+                                </p>
+                        </div>
+                    </div>
+                    <div class="hr-invisible-small"></div>
+                    <div class="column dt-sc-one-third first">
+                        <div class="dt-sc-ico-content type4 desktop">
+                            <div class="icon">   
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampoo profondo tec italy.fw.png" alt="" title=""> 
+                                           
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">  shampoo profondo  </a>
+                            </h4>
+                            <p>
+                            <br>
+                            <br>
+                        Shampoo de limpieza profunjda para cabello cuero cabellurdo, ayuda a retirar el exceso de grasa, resuido cosméticos, de cloro y minerales.
+                             <br>
+                             <br>
+                             </p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 trophy">
+                            <div class="icon">   
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/duo facCetTa  giorno per giorno  tec italy.fw.png" alt="" title="">
+                                         
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#"> Duo faccetta  giorno per giorno </a>
+                            </h4>
+                             <p>Poderoso tratamiento instantáneo sin enjuague de uso diario desarollado para el cabello normal o seco. HIdrata, mutre y senreda gracias a su concentración de complejo proteínico, complejo orgánico natural y reconstruvtor proteínico único en el mundo, constituido de seda, queratina y trijo , complejo botánico que tiene funciones antisépticas, antiseborreicas y humectantes, compuesto protector capilar que combina los más finos silicones para un cuidado y  acondicionamiento máximos del cabello. </p>
+                        </div>
+                    </div>
+                    <div class="column dt-sc-one-third">
+                        <div class="dt-sc-ico-content type4 plane">
+                            <div class="icon">   
+                                <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Shampoo Bambini  tec italy.fw.png" alt="" title="">
+                                      
+                            </div>
+                            <h4>
+                                <a target="_blank" href="#">Shampoo Bambini </a>
+                            </h4>
+                           <p>Diseñado para cuero cabelludo sensible,cabello delgado y fino , como el de niños y bebés. Limpia suavemente sin retirar los aceites naturales esenciales para el cabello. Proporciona brillo, suavidad y humectación. Ideal para uso diario e ó 3 veces al dia. Su formula enriquecida con tricine protege el cabello delicado, fortaleciéndo , generando desenredo, docilidad y brillo. </p>
+                        
+                        </div>
+                    </div>
+                    
                     
                     
                         <?php  /** cierre descripcion de productos tec ytaly**/ ?>
+                    </div>
                     </div>
                     </div>
 					
