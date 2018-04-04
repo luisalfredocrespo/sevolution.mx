@@ -267,7 +267,7 @@
 	.dt-sc-tabs-frame-content.dt-sc-ico-content .alignleft, .dt-sc-tabs-frame-content.dt-sc-ico-content .alignright { width: 49%; }
 	.dt-sc-tabs-frame-content.dt-sc-ico-content .alignleft span, .dt-sc-tabs-frame-content.dt-sc-ico-content .alignright span { font-weight: bold; font-size: 17px; }
 	
-	.dt-sc-ico-content.type4 { border: 1px solid #eeeeee; padding: 10px; overflow: hidden; z-index: 1; }
+	.dt-sc-ico-content.type4 { border: 1px solid #eeeeee; padding: 10px; overflow: hidden; z-index: 1; min-height: 310px;  }
 	.dt-sc-ico-content.type4 .icon { background: #ffffff; height: 100%; left: 0; position: absolute; top: 0; width: 100%; text-align: center; }
 	.dt-sc-ico-content.type4 .icon i.fa { font-size: 60px; position: relative; top: 20%; display: block; } 	
 	.dt-sc-ico-content.type4 .icon h4 { position: relative; top: 30%; font-size: 26px; font-weight: 100; }

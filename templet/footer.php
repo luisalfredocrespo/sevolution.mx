@@ -13,9 +13,10 @@
                             <div class="hr-invisible-very-very-small"></div>
                             <h4 class="widgettitle"> Telefono  </h4>
                             <div class="dt-sc-contact-info">
-                            	<p class="dt-sc-clr num"> (55)56844906 </p>
+                            	<p class="fa fa-phone-square"> (55)56844906 </p>
+                                <p class="fa fa-whatsapp"> (044)5513004391 </p>
                             </div>
-                            <div class="hr-invisible-very-very-small"></div>
+                                 <div class="hr-invisible-very-very-small"></div>
                             <h4 class="widgettitle"> Mandanos  Email </h4>
                             <div class="dt-sc-contact-info">
                             	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>mailto:yourname@somemail.com" class="dt-sc-clr"> Saloncapri_1315@hotmail.com</a>

@@ -85,6 +85,10 @@
                 <div class="top-right">
                 	<ul>
                         <li>
+                            <span class="fa fa-whatsapp"></span>
+                            (044)5513004391
+                        </li>
+                        <li>
                             <span class="fa fa-phone-square"></span>
                             (55)56844906
                         </li>
