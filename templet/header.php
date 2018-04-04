@@ -127,7 +127,7 @@
 							<?php /* <ul  <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>productos">producto</a></li> </ul> */ ?>
                             
                             
-                            <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>luis">Galeria</a>
+                            <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>galeria">Galeria</a>
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>
@@ -135,7 +135,7 @@
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>
-							<li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>calendario">productos2</a>
+							<li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>productos">productos</a>
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>
