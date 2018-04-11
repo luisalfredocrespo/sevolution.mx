@@ -11,7 +11,7 @@
                     		<div class="container">
                             	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
                                 <div class="aligncenter">
-                                	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
+                                	<a href="<?php echo RUTA_ACTUAL; ?>contacto" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
                               	</div>
                             </div>
                         </div>
@@ -743,7 +743,10 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
-                            <div class="icon">   
+                            <div class="icon"> 
+                            <h6>
+                                <a target="_blank" href="#"> olio vital</a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/olio vital.fw.png" alt="" title="">
                                    
                             </div>
@@ -760,7 +763,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> shampoo post color </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/postcolor.fw.png" alt="" title="">
                                           
                             </div>
@@ -772,7 +778,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#">  due faccetta lunga durata  </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy due faccetta lunga durata.fw.png" alt="" title="">
                                           
                             </div>
@@ -791,7 +800,10 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#">  shampoo balsami presto </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampoo balsami presto tec italy.fw.png" alt="" title=""> 
                                            
                             </div>
@@ -803,7 +815,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#">  balsami presto </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/balsami presto tec italy.fw.png" alt="" title="">
                                          
                             </div>
@@ -817,7 +832,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
-                            <div class="icon">   
+                            <div class="icon">  
+                            <h6>
+                                <a target="_blank" href="#">lumina shampoo </a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina shampoo.fw.png" alt="" title="">
                                       
                             </div>
@@ -835,7 +853,10 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
-                            <div class="icon">   
+                            <div class="icon"> 
+                            <h6>
+                                <a target="_blank" href="#"> lumina conditioner</a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina conditioner.fw.png" alt="" title="">
                                           
                             </div>
@@ -847,7 +868,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#">lumina forza colore  </a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy lumina forza colore.fw.png" alt="" title="">
                                           
                             </div>
@@ -859,7 +883,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
+                            <div class="icon"> 
+                                <h6>
+                                <a target="_blank" href="#"> silk system shine</a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy silk system shine.fw.png" alt="" title="">
                                         
                             </div>
@@ -874,7 +901,10 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
-                            <div class="icon">   
+                            <div class="icon"> 
+                            <h6>
+                                <a target="_blank" href="#">Shampoo Massimo </a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/tec italy shampoo massimo.fw.png" alt="" title=""> 
                                          
                             </div>
@@ -898,16 +928,17 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> Balsami Totale</a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Blsami totale tec italy.fw.png" alt="" title="">
                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> Balsami Totale</a>
                             </h4>
-                            <br>
-                            <br>
-                            <br>
+                            
                             <p>Tratamiento acondicionador reconstructor nutritivo instantáneo que repara el cabello dañado, brindando brillo,sedosidad y desenredo.</p>
                         </div>
                     </div>
@@ -917,7 +948,10 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
-                            <div class="icon">   
+                            <div class="icon">
+                                <h6>
+                                <a target="_blank" href="#"> Due Faccetta Massimo</a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/due faccetta massimo tec italy.fw.png" alt="" title="">
                                           
                             </div>
@@ -929,7 +963,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
+                            <div class="icon"> 
+                            <h6>
+                                <a target="_blank" href="#"> shampo tonico</a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampo tonico  tec italy.fw.png" alt="" title="">         
                             </div>
                             <h4>
@@ -941,24 +978,28 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> scultore fine   </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/scultore fine tec italy.fw.png" alt="" title="">
                                         
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> scultore fine   </a>
                             </h4>
-                            <p>
-                            <br>Espectacular gel líquido creado parta trabajar con las manos, que ayuda a marcar y fijar rizos. Otorga cuerpo, textura y brillo al cabello. Contiene pantenol.  
-                            <br>  
-                            <br>
+                            <p>Espectacular gel líquido creado parta trabajar con las manos, que ayuda a marcar y fijar rizos. Otorga cuerpo, textura y brillo al cabello. Contiene pantenol.  
+                            
                             </p>
                         </div>
                     </div>
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
-                            <div class="icon">   
+                            <div class="icon">
+                                <h6>
+                                <a target="_blank" href="#">  Gel della cera effetto normale </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Gel della cera effetto normale tec italy.fw.png" alt="" title=""> 
                                          
                             </div>
@@ -970,7 +1011,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
-                            <div class="icon">   
+                            <div class="icon"> 
+                                <h6>
+                                <a target="_blank" href="#"> Gel della cera effetto humedo </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Gel della cera effetto humedo tec italy.fw.png" alt="" title="">
                                           
                             </div>
@@ -982,7 +1026,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> Volumi e Corpo Mousse  </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/volumi e corpo mousse tec italy.fw.png" alt="" title="">
                                            
                             </div>
@@ -1002,7 +1049,10 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
-                            <div class="icon">   
+                            <div class="icon"> 
+                            <h6>
+                                <a target="_blank" href="#"> Gellini gel </a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/gellini gel tec italy.fw.png" alt="" title="">
                                           
                             </div>
@@ -1016,23 +1066,27 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> Brillare Trattanti  </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/brillare trattanti tec italy.fw.png" alt="" title="">
                                          
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> Brillare Trattanti  </a>
                             </h4>
-                            <br>
-                            <br>
+                            
                             <p>Poderoso tratamiento concentrado que se deja puesto, da máximo brillo y desenredo.Formulado con los más finos silicones.</p>
-                            <br>
-                            <br>
+                            
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> brillare mist </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/brillare mist tec italy.fw.png" alt="" title="">
                                           
                             </div>
@@ -1040,12 +1094,8 @@
                                 <a target="_blank" href="#"> brillare mist </a>
                             </h4>
                             <p>
-                            <br>
-                            <br>
-                            <br>
                             El toque para estilizar su cabello. Brinda súper brillo instantáneo, y es un estraordinario reacondicionante.
-                            <br>
-                            <br>
+                            
                             </p>
                         </div>
                     </div>
@@ -1057,23 +1107,26 @@
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 cog">
-                            <div class="icon">   
+                            <div class="icon"> 
+                             <h6>
+                                <a target="_blank" href="#"> Pazzicera </a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/pazzicera tec italy.fw.png" alt="" title="">
                                    
                             </div>
                             <h4>
                                 <a target="_blank" href="#"> Pazzicera </a>
                             </h4>
-                             <br>
-                                <br>
-                                 <br>
-                                <br>
+                             
                            Versátil cera para definir peinados. Ideal para jóvenes que desean un aspecto urbano/mate en su cabello y para peinados con aspectos con desenfadado. Sin brillo, especial para cabellos cortos y despeinados con una fijación media.</p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 anchor">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> Pasta della aragña </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Pasta della aragña  tec italy.fw.png" alt="" title="">
                                           
                             </div>
@@ -1085,7 +1138,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 magic">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#">  Stravaganza wax  </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Stravaganza wax tec italy.fw.png" alt="" title="">
                                           
                             </div>
@@ -1093,18 +1149,17 @@
                                 <a target="_blank" href="#">  Stravaganza wax  </a>
                             </h4>
                             <p>
-                                <br>
-                                <br>
-                            <br>
-                            Cera de finalizado no grasosa con terminado mate. Crea estilos únicos, con tectura, moldeables y definidos. Gracias a su consistencia cremosa es de fácil distribucíon. Para todo tipo de cabello, ideal para cabellos cortos y estilos degrafilados. Cuenta con dos niveles de fijación: media y fuerte.                         
-                                <br>
+                            Cera de finalizado no grasosa con terminado mate. Crea estilos únicos, con tectura, moldeables y definidos. Gracias a su consistencia cremosa es de fácil distribucíon. Para todo tipo de cabello, ideal para cabellos cortos y estilos degrafilados. Cuenta con dos niveles de fijación: media y fuerte.
                                 </p>
                         </div>
                     </div>
                     <div class="hr-invisible-small"></div>
                     <div class="column dt-sc-one-third first">
                         <div class="dt-sc-ico-content type4 desktop">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#">  shampoo profondo  </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/shampoo profondo tec italy.fw.png" alt="" title=""> 
                                            
                             </div>
@@ -1112,17 +1167,16 @@
                                 <a target="_blank" href="#">  shampoo profondo  </a>
                             </h4>
                             <p>
-                            <br>
-                            <br>
                         Shampoo de limpieza profunjda para cabello cuero cabellurdo, ayuda a retirar el exceso de grasa, resuido cosméticos, de cloro y minerales.
-                             <br>
-                             <br>
                              </p>
                         </div>
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 trophy">
-                            <div class="icon">   
+                            <div class="icon">
+                            <h6>
+                                <a target="_blank" href="#"> Duo faccetta  giorno per giorno </a>
+                            </h6>   
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/duo facCetTa  giorno per giorno  tec italy.fw.png" alt="" title="">
                                          
                             </div>
@@ -1134,7 +1188,10 @@
                     </div>
                     <div class="column dt-sc-one-third">
                         <div class="dt-sc-ico-content type4 plane">
-                            <div class="icon">   
+                            <div class="icon"> 
+                            <h6>
+                                <a target="_blank" href="#">Shampoo Bambini </a>
+                            </h6>  
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/producto2/Shampoo Bambini  tec italy.fw.png" alt="" title="">
                                       
                             </div>
