@@ -67,6 +67,11 @@
 </head>
 
 <body>
+ <div id="jmy_web"></div>
+    <div id="jmy_web_tools"></div>
+
+
+    
 <div id="loader-wrapper"><!-- PreLoader -->
     <div class="loader">
         <div class="inner one"></div>
@@ -84,10 +89,13 @@
             	<p></p>
                 <div class="top-right">
                 	<ul>
-                        <li>
-                            <span class="fa fa-whatsapp"></span>
-                            (044)5513004391
-                        </li>
+                        <li  class="jmy_web_div"  id="header_horario" data-page="header" data-editor="no">
+                        <?php 
+                        $this->pnt('header_horario',
+                        '<span class="fa fa-whatsapp"></span>
+                        '.'(044)5513004391',
+                        ["secundario"=>"header"]
+                        );?></li>
                         <li>
                             <span class="fa fa-phone-square"></span>
                             (55)56844906
@@ -113,7 +121,7 @@
                         </div>
                         <a title="evolutionSalon" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>index.html" class="sticky-logo"><img title="evolutionSalon" alt="evolution" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/logo.png"></a>
                         <ul class="menu">
-                            <li class="current_page_item menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>">Inicio</a>
+                            <li class="current_page_item menu-item-simple-parent"><a href="<?php $this->url_inicio(); ?>">Inicio</a>
                             	<?php /* <ul class="sub-menu">
                                     <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>index-v2.html">Home 2</a></li>
                                     <li><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>index-v3.html">Home 3</a></li>
@@ -122,24 +130,24 @@
                                 </ul> */ ?>
                                 <a class="dt-menu-expand">+</a>
                             </li>
-                            <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>nosotros">Nosotros</a>
+                            <li class="menu-item-simple-parent"><a href="<?php $this->url_inicio(); ?>nosotros">Nosotros</a>
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>
-                            <li class=""><a href="<?php echo RUTA_ACTUAL; ?>servicios">Servicios</a></li>
+                            <li class=""><a href="<?php $this->url_inicio(); ?>servicios">Servicios</a></li>
 							
 							<?php /* <ul  <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>productos">producto</a></li> </ul> */ ?>
                             
                             
-                            <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>galeria">Galeria</a>
+                            <li class="menu-item-simple-parent"><a href="<?php $this->url_inicio(); ?>galeria">Galeria</a>
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>
-                            <li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>contacto">Contacto</a>
+                            <li class="menu-item-simple-parent"><a href="<?php $this->url_inicio(); ?>contacto">Contacto</a>
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>
-							<li class="menu-item-simple-parent"><a href="<?php echo RUTA_ACTUAL; ?>productos">productos</a>
+							<li class="menu-item-simple-parent"><a href="<?php $this->url_inicio(); ?>productos">productos</a>
                             	
                                 <a class="dt-menu-expand">+</a>
                             </li>

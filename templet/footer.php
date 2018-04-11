@@ -58,7 +58,7 @@
                             	<li><a href="<?php echo RUTA_ACTUAL; ?>#" class="fa fa-facebook"></a></li>
                                 <li><a href="<?php echo RUTA_ACTUAL; ?>#" class="fa fa-instagram"></a></li>
                                 <li><a href="<?php echo RUTA_ACTUAL; ?>#" class="fa fa-youtube"></a></li>
-                                
+                                <li><a href="<?php echo RUTA_ACTUAL; ?>#" class="fa fa-whatsapp"></a></li>
                             </ul>
                         </aside>
                  	</div> 
@@ -75,17 +75,17 @@
 </div><!-- End of Wrapper -->
   
 <!-- **jQuery** -->    
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jquery-1.11.3.min.js"></script>
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jquery.parallax-1.1.3.js" type="text/javascript"></script>  
-<script type="text/javascript" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jquery.sticky.min.js"></script>         
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jquery.inview.js" type="text/javascript"></script>
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jsplugins.js" type="text/javascript"></script>
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jquery.meanmenu.min.js" type="text/javascript"></script>
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/custom.js"></script>
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>http://maps.google.com/maps/api/js?sensor=false"></script>
-<script src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>js/jquery.gmap.min.js"></script>
+<script src="<?php $this->url_templet(); ?>js/jquery-1.11.3.min.js"></script>
+<script src="<?php $this->url_templet(); ?>js/jquery.parallax-1.1.3.js" type="text/javascript"></script>  
+<script type="text/javascript" src="<?php $this->url_templet(); ?>js/jquery.sticky.min.js"></script>         
+<script src="<?php $this->url_templet(); ?>js/jquery.inview.js" type="text/javascript"></script>
+<script src="<?php $this->url_templet(); ?>js/jsplugins.js" type="text/javascript"></script>
+<script src="<?php $this->url_templet(); ?>js/jquery.meanmenu.min.js" type="text/javascript"></script>
+<script src="<?php $this->url_templet(); ?>js/custom.js"></script>
+<script src="https://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="<?php $this->url_templet(); ?>js/jquery.gmap.min.js"></script>
 
-
+<?php  $this->llamar_js(); ?> 
 
 </body>
 </html>
