@@ -4,10 +4,9 @@
                 	<div class="parallax-spacing">
                     	<div class="container">
                         	<div class="caption">
-                            	<h2 class="jmy_web_div" data-page="inicio" id="slider_1" data-editor="no" ><?php $this->pnt('slider_1','Money Doesn’t<br>Come <span class="color-default">Without Care</span>'); ?></h2>
+                            	<h2 class="jmy_web_div" data-page="inicio" id="slider_1" data-editor="no"><?php $this->pnt('slider_1','Money Doesn’t<br>Come   <span class="color-default">Without Care</span>');?></h2>
                                 <p></p>
                                 
-                               
                             </div>
                             <div class="hr-invisible"></div>
                             <div class="hr-invisible"></div>
@@ -38,7 +37,8 @@
             	<h2 class="border-title aligncenter">
                     Bienvenidos a su Sal&oacuten 
                 </h2>
-                <p class="aligncenter">El Salón evolution le da la bienvenida este es su Salón de belleza para usted aquí encontrara el cambio de look tanto como para damas y caballeros, queremos que se sienta cómodo y satisfecho gracias por su visita.</p>
+                <p class="aligncenter jmy_web_div" data-page="inicio" id="hola" >
+                <?php $this->pnt('hola','El Salón evolution le da la bienvenida este es su Salón de belleza para usted aquí encontrara el cambio de look tanto como para damas y caballeros, queremos que se sienta cómodo y satisfecho gracias por su visita.'); ?></p>
 				<div class="clear"></div>
                 <div class="hr-invisible-medium"></div>
                 <div class="hr-invisible-very-very-small"></div>
