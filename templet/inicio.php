@@ -7,6 +7,7 @@
                             	<h2 class="jmy_web_div" data-page="inicio" id="slider_1" ><?php $this->pnt('slider_1','Money Doesn’t<br>Come <span class="color-default">Without Care</span>'); ?></h2>
                                 <p></p>
                                 
+                               
                             </div>
                             <div class="hr-invisible"></div>
                             <div class="hr-invisible"></div>
