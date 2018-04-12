@@ -94,7 +94,7 @@
             <div class="clear"></div>
             <div class="hr-invisible"></div>
             <div class="fullwidth-section dt-sc-parallax-section pricing-parallax dark-bg">
-                <div class="fullwidth-bg">
+               <?php /*   <div class="fullwidth-bg">
                     <div class="parallax-spacing">
                         <div class="container"><!-- Container -->
                         	<h2 class="border-title aligncenter"> Nuestras ofertas </h2>
@@ -197,7 +197,7 @@
 							</div>
                         </div><!-- End of Container -->
                     </div>
-                </div>
+                </div> */?>
 
         	</div> 
 			 <br><h2 class="border-title aligncenter"> </h2>										 

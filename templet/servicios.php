@@ -99,7 +99,7 @@
                 </div>
                 <div class="clear"></div>
                 <div class="hr-invisible"></div>
-                <div class="fullwidth-section dt-sc-parallax-section pricing-parallax dark-bg">
+                <?php /* <div class="fullwidth-section dt-sc-parallax-section pricing-parallax dark-bg">
                     <div class="fullwidth-bg">
                         <div class="parallax-spacing">
                              <div class="container"><!-- Container -->
@@ -202,7 +202,7 @@
                         </div><!-- End of Container -->
                         </div>
                     </div>
-            	</div> 
+            	</div>  */?>
                 <div class="clear"></div>
                 <div class="hr-invisible"></div>
                 
