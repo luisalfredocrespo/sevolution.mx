@@ -34,8 +34,9 @@
                 </div>
             </div>
             <div class="container"><!-- Container -->
-            	<h2 class="border-title aligncenter">
-                    Bienvenidos a su Sal&oacuten 
+            	<h2 class="border-title aligncenter jmy_web_div" data-page="inicio" id="hola1" >
+                <?php $this->pnt('hola1','Bienvenidos a su Sal&oacuten.'); ?>
+                     
                 </h2>
                 <p class="aligncenter jmy_web_div" data-page="inicio" id="hola" >
                 <?php $this->pnt('hola','El Salón evolution le da la bienvenida este es su Salón de belleza para usted aquí encontrara el cambio de look tanto como para damas y caballeros, queremos que se sienta cómodo y satisfecho gracias por su visita.'); ?></p>
@@ -51,7 +52,8 @@
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="first-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon1.png" alt="" title=""></a>
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="second-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon5.png" alt="" title=""></a>
                         </div>
-                        <h3><a href="<?php echo RUTA_ACTUAL; ?>"> Cortes </a></h3>
+                        <h3 class="jmy_web_div" data-page="inicio" id="hola2" >
+                        <?php $this->pnt('hola2','Cortes'); ?></h3>
                     </div>
                 </div>
                 <div class="column dt-sc-one-fourth">
@@ -63,7 +65,8 @@
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="first-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon2.png" alt="" title=""></a>
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="second-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon6.png" alt="" title=""></a>
                         </div>
-                        <h3><a href="<?php echo RUTA_ACTUAL; ?>"> Barbas </a></h3>
+                        <h3 class="jmy_web_div" data-page="inicio" id="hola3" >
+                        <?php $this->pnt('hola3','barbas'); ?></h3>
                     </div>
                 </div>
                 <div class="column dt-sc-one-fourth">
@@ -75,7 +78,8 @@
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="first-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon3.png" alt="" title=""></a>
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="second-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon7.png" alt="" title=""></a>
                         </div>
-                        <h3><a href="<?php echo RUTA_ACTUAL; ?>">Secados y alaciados</a></h3>
+                        <h3 class="jmy_web_div" data-page="inicio" id="hola4" >
+                        <?php $this->pnt('hola4','Secados y alaciados');?></h3>
                     </div>
                 </div>
                 <div class="column dt-sc-one-fourth">
@@ -87,7 +91,7 @@
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="first-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon4.png" alt="" title=""></a>
                             <a href="<?php echo RUTA_ACTUAL; ?>"><img class="second-img" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-icon8.png" alt="" title=""></a>
                         </div>
-                        <h3><a href="<?php echo RUTA_ACTUAL; ?>"> tratamientos </a></h3>
+                        <h3 class="jmy_web_div" data-page="inicio" id="hola5"><?php $this->pnt('hola5','tratamientos');?></h3>
                     </div>
                 </div>
             </div><!-- End of Container -->
@@ -205,7 +209,7 @@
                     <div class="fullwidth-bg">
                     	<div class="parallax-spacing">
                     		<div class="container">
-                            	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
+                            	<h3 class="border-title jmy_web_div" data-page="inicio" id="hola6"><?php $this->pnt('hola6','Reserva tu cita con anticipasión');?></h3>
                                 <div class="aligncenter">
                                 	<a href="<?php echo RUTA_ACTUAL; ?>contacto" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
                               	</div>
@@ -218,7 +222,7 @@
             <div class="fullwidth-section promo-parallax" style="background-position: 35% 0%;">
             	<div class="parallax-spacing">
                 	<div class="container">
-                        <h2 class="border-title aligncenter"> Vitamina E  </h2>
+                        <h2 class="border-title aligncenter jmy_web_div" data-page="inicio" id="hola7"><?php $this->pnt('hola7','vitamina E');?></h2>
                         <div class="hr-invisible"></div>
                         <div class="column dt-sc-one-third first">
                         </div>
@@ -229,7 +233,8 @@
                         </div>
                         <div class="column dt-sc-one-third">
                         	<div class="animate" data-delay="400" data-animation="fadeIn animated">
-                                <h3 class="border-title">Beneficios <span></span></h3>
+                                <h3 class="border-title jmy_web_div" data-page="inicio" id="hola8">
+                                    <?php $this->pnt('hola8',' Beneficios '); ?></h3>
                                 <ul class="dt-sc-fancy-list check italic">
                                     <li> Es un tratamiento formulado con ampolleta en crema que restaura y fortalece tu cabello procesado inmediatamente, aumentando el tiempo del color, devolviendo la suavidad y brillo natural protegiéndolo de todo maltrato y calor dando apariencia fresca, dócil gracias a su base multivitamínica con queratina  </li>
                                    
