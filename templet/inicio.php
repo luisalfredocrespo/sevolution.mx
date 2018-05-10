@@ -514,48 +514,65 @@
                                         <li class="jmy_web_div" data-page="inicio" id="hola48">
 <?php $this->pnt('hola48','Manicure '); ?><span>$100</span></li>
                                         <li class="jmy_web_div" data-page="inicio" id="hola49">
-<?php $this->pnt('hola49','pedicure '); ?><span>$140</span></li>
+<?php $this->pnt('hola49','Pedicure '); ?><span>$140</span></li>
                                         <li class="jmy_web_div" data-page="inicio" id="hola50">
-<?php $this->pnt('hola50','esmaltado '); ?><span>$60</span></li>
-                                        <li>Esmalte 21 angel<span>$100</span></li>
-                                        <li>Esmalte 21 mishel<span>$150</span></li>
-                                        <li>Gelish<span>$180</span></li>
-										<li>Rizado de 
-										pestaña<span>$150</span></li>
+<?php $this->pnt('hola50','Esmaltado '); ?><span>$60</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola51">
+<?php $this->pnt('hola51','Esmalte 21 angel '); ?><span>$100</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola52">
+<?php $this->pnt('hola52','Esmalte 21 mishel'); ?><span>$150</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola53">
+<?php $this->pnt('hola53','Gelish'); ?><span>$180</span></li>
+										<li class="jmy_web_div" data-page="inicio" id="hola54">
+<?php $this->pnt('hola54','Rizado de pestañas'); ?><span>$150</span></li>
                                     </ul>
                                 </div>
                                 <div class="column dt-sc-one-half">
                                     <ul class="menu-card check">
-                                        <li>Corte de caballero<span>$100</span></li>
-                                        <li>corte de niño<span>$100</span></li>
-                                        <li>Barba<span>$100</span></li>
-                                        <li>Planchado de ceja<span>$150</span></li>
-                                        <li>Extenciones desde<span>$1800</span></li>
-                                        <li>Tinte desde<span>$300</span></li>
-                                        <li>A/tinte desde<span>$150</span></li>
-                                        <li>Rayos desde<span>$380</span></li>
-                                        <li>Efectos de color
-										<br>
-										desde<span>$450</span></li>
-                                        <li>Tratamiento capilar
-										<br>
-										desde<span>$150</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola55">
+<?php $this->pnt('hola55','corte de caballero '); ?><span>$100</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola56">
+<?php $this->pnt('hola56','corte de niño '); ?><span>$100</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola57">
+<?php $this->pnt('hola57','barba '); ?><span>$100</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola58">
+<?php $this->pnt('hola58','Planchado de ceja'); ?><span>$150</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola59">
+<?php $this->pnt('hola59','extenciones desde'); ?><span>$1800</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola60">
+<?php $this->pnt('hola60','tintes desde'); ?><span>$350</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola61">
+<?php $this->pnt('hola61','A/tinte desde '); ?><span>$150</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola62">
+<?php $this->pnt('hola62','rayos desde  '); ?><span>$380</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola63">
+<?php $this->pnt('hola63','efectos de color desde '); ?><span>$450</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola64">
+<?php $this->pnt('hola64','tratamientos capilar desde  '); ?><span>$150</span></li>
                                     </ul>
                                 </div>
                                 <div class="column dt-sc-one-half">
                                     <ul class="menu-card check">
-                                        <li>Depilaciones<span></span></li>
-                                        <li>Axila desde<span>$50</span></li>
-                                        <li>Ceja desde<span>$50</span></li>
-                                        <li>Bozo desde<span>$50</span></li>
-                                        <li>Piernas desde<span>$150</span></li>
-                                        <li>Rostro desde<span>$150</span></li>
-                                        <li>Uñas de acrílico  
-										<br>
-										desde<span>$120</span></li>
-                                        <li>Bases desde<span>$350</span></li>
-                                        <li>Lash And Brow Tint<span>$38</span></li>
-                                        <li>Cap Frosting<span>$25</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola65">
+<?php $this->pnt('hola65','depilaciones '); ?><span></span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola66">
+<?php $this->pnt('hola66','axila desde '); ?><span>$50</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola67">
+<?php $this->pnt('hola67','ceja desde '); ?><span>$50</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola68">
+<?php $this->pnt('hola68','bozo desde '); ?><span>$50</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola69">
+<?php $this->pnt('hola69','piernas desde '); ?><span>$150</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola70">
+<?php $this->pnt('hola70','rostro desde '); ?><span>$150</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola71">
+<?php $this->pnt('hola71','uñas de acrílico desde '); ?><span>$120</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola72">
+<?php $this->pnt('hola72','beses desde  '); ?><span>$350</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola73">
+<?php $this->pnt('hola73','.'); ?><span>$</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola74">
+<?php $this->pnt('hola74','.'); ?><span>$</span></li>
                                     </ul>
                                 </div>
                                 
