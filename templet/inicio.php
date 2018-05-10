@@ -247,7 +247,8 @@
                         <div class="column dt-sc-two-third">
                             <div class="dt-sc-notification">
                                 <div class="alignleft">
-                                    <h4>Lo puedes adquirir en nuestro Sal&oacuten <span></span></h4>
+                                    <h4 class="jmy_web_div" data-page="inicio" id="hola9">
+                                    <?php $this->pnt('hola9','Lo puedes adquirir en nuestro Salón'); ?></h4>
                                 </div>
                                 <div class="alignright">
                                     <a class="dt-sc-button" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#">$160</a>
@@ -272,13 +273,15 @@
                                 <div class="hr-invisible-very-very-small"></div>
                                 <img title="" alt="" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/heading-bottom.png">
                                 <div class="hr-invisible-very-small"></div>
-                                <h5> Clientes </h5>
+                                <h5 class="jmy_web_div" data-page="inicio" id="hola10">
+                                    <?php $this->pnt('hola10','clientes'); ?></h5>
                             </div>
                         </div>
                         <div class="column dt-sc-one-fourth">
                         	<div class="dt-sc-counter animate" data-delay="200" data-animation="fadeIn animated">
                                 <div class="hr-invisible-very-small"></div>
-                                <h5> Estilistas  </h5>
+                                <h5 class="jmy_web_div" data-page="inicio" id="hola11">
+                                    <?php $this->pnt('hola11','estilistas'); ?></h5>
                                 <div class="hr-invisible-very-small"></div>
                                 <img title="" alt="" src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/heading-bottom.png">
                                 <div class="hr-invisible-very-small"></div>
@@ -297,13 +300,15 @@
                                 <div class="hr-invisible-very-very-small"></div>
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/heading-bottom.png" alt="" title="">
                                 <div class="hr-invisible-very-small"></div>
-                                <h5> comentarios </h5>
+                                <h5 class="jmy_web_div" data-page="inicio" id="hola12">
+                                    <?php $this->pnt('hola12','comentarios'); ?></h5>
                             </div>
                         </div>
                         <div class="column dt-sc-one-fourth">
                         	<div class="dt-sc-counter animate" data-delay="400" data-animation="fadeIn animated">
                             	<div class="hr-invisible-very-small"></div>
-                                <h5> me gusta </h5>
+                                <h5 class="jmy_web_div" data-page="inicio" id="hola13">
+                                    <?php $this->pnt('hola13','me gusta'); ?></h5>
                                 <div class="hr-invisible-very-very-small"></div>
                                 <div class="hr-invisible-very-very-small"></div>
                                 <img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/heading-bottom.png" alt="" title="">
@@ -321,43 +326,60 @@
             <div class="clear"></div>
             <div class="hr-invisible"></div>
             <div class="container">
-            	<h2 class="border-title aligncenter"> Conoce a nuestros estilistas </h2>
-                <p class="aligncenter">Cada uno de nuestros estilistas tiene la experiencia para poderlo atender y cumplir con su trabajo que ustedes deseen </p>
+            	<h2 class="border-title aligncenter jmy_web_div" data-page="inicio" id="hola14">
+                                    <?php $this->pnt('hola14','Conoce a nuestros estilistas'); ?></h2>
+                <p class="aligncenter jmy_web_div" data-page="inicio" id="hola15">
+                <?php $this->pnt('hola15','Cada uno de nuestros estilistas tiene la experiencia para poderlo atender y cumplir con su trabajo que ustedes deseen'); ?></p>
                 <div class="hr-invisible"></div>
                 <div class="column dt-sc-one-fourth first">
                     <div class="dt-sc-team type1 animate" data-delay="100" data-animation="fadeIn animated">
                         
-                        <h4><a href="#"> Alfredo </a></h4>
-                        <h5>Estilista en general</h5>
-						<h5>Cambio de color de cabello</h5>
-						 <h5>barbas</h5>
+                        <h4 class="jmy_web_div" data-page="inicio" id="hola16">
+                <?php $this->pnt('hola16','Alfredo'); ?></h4>
+                        <h5 class="jmy_web_div" data-page="inicio" id="hola17">
+                <?php $this->pnt('hola17','estilista en general'); ?></h5>
+						<h5 class="jmy_web_div" data-page="inicio" id="hola18">
+                <?php $this->pnt('hola18','cambio de color'); ?></h5>
+						 <h5 class="jmy_web_div" data-page="inicio" id="hola19">
+                <?php $this->pnt('hola19','barbas'); ?></h5>
                     </div>
                 </div>
                 <div class="column dt-sc-one-fourth">
                     <div class="dt-sc-team type1 animate" data-delay="200" data-animation="fadeIn animated">
                         
-                        <h4><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#"> Esmaralda</a></h4>
-                        <h5>Estilista en general</h5>
-						 <h5>Uñas de acrílico</h5>
-						  <h5>Manicurista</h5>
+                        <h4 class="jmy_web_div" data-page="inicio" id="hola20">
+                <?php $this->pnt('hola20','Esmeralda'); ?></h4>
+                        <h5 class="jmy_web_div" data-page="inicio" id="hola21">
+                <?php $this->pnt('hola21','estilista en general'); ?></h5>
+						 <h5 class="jmy_web_div" data-page="inicio" id="hola22">
+                <?php $this->pnt('hola22','uñas de acrílico'); ?></h5>
+						  <h5 class="jmy_web_div" data-page="inicio" id="hola23">
+                <?php $this->pnt('hola23','manicurista'); ?></h5>
                     </div>
                 </div>
                 <div class="column dt-sc-one-fourth">
                     <div class="dt-sc-team type1 animate" data-delay="300" data-animation="fadeIn animated">
                         
-                        <h4><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#"> Aida </a></h4>
-                        <h5>Estilista general</h5>
-						 <h5>Maniculista</h5>
-						  <h5></h5>
+                        <h4 class="jmy_web_div" data-page="inicio" id="hola24">
+                <?php $this->pnt('hola24','Aida'); ?></h4>
+                        <h5 class="jmy_web_div" data-page="inicio" id="hola25">
+                <?php $this->pnt('hola25','estilista en general'); ?></h5>
+						 <h5 class="jmy_web_div" data-page="inicio" id="hola26">
+                <?php $this->pnt('hola26','Maniculista'); ?></h5>
+						  <h5 class="jmy_web_div" data-page="inicio" id="hola27">
+                <?php $this->pnt('hola27',''); ?></h5>
 						
                     </div>
                 </div>
                 <div class="column dt-sc-one-fourth">
                     <div class="dt-sc-team type1 animate" data-delay="400" data-animation="fadeIn animated">
                         
-                        <h4><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#"> Beatris</a></h4>
-                        <h5>Estilista general</h5>
-						 <h5>Maniculista</h5>
+                        <h4 class="jmy_web_div" data-page="inicio" id="hola28">
+                <?php $this->pnt('hola28','Beatris'); ?></h4>
+                        <h5 class="jmy_web_div" data-page="inicio" id="hola29">
+                <?php $this->pnt('hola29','estilista en general'); ?></h5>
+						 <h5 class="jmy_web_div" data-page="inicio" id="hola30">
+                <?php $this->pnt('hola30','manicurista'); ?></h5>
                     </div>
                 </div>
             </div>
@@ -367,7 +389,8 @@
                 <div class="fullwidth-bg">
                 	<div class="parallax-spacing">
                     	<div class="container">
-                        	<h2 class="border-title aligncenter"> servicios</h2>
+                        	<h2 class="border-title aligncenter jmy_web_div" data-page="inicio" id="hola31">
+                <?php $this->pnt('hola31','servicios'); ?></h2>
                             <div class="hr-invisible"></div>
                             <div class="column dt-sc-one-third first">
                             	<article class="blog-entry">
@@ -379,19 +402,23 @@
                                     <div class="entry-details">
                                         <div class="hr-invisible-very-small"></div>
                                         <div class="entry-title">
-	                                        <h3>Manicure</h3>
+	                                        <h3 class="jmy_web_div" data-page="inicio" id="hola32">
+                <?php $this->pnt('hola32','Manicure'); ?></h3>
 	                                       
                                         </div>
                                        
-                                        <div class="entry-metadata">
-                                            <p>Ven a consentir tus manos y relajarse  </p>
-                                            <div class="author">
-                                                <i class="fa fa-clock-o"></i>
-                                                <a href="<?php echo RUTA_ACTUAL; ?>">40min</a>
+                <div class="entry-metadata">
+                <p class="jmy_web_div" data-page="inicio" id="hola33">
+                <?php $this->pnt('hola33','Ven a consentir tus manos y relajarse'); ?></p>
+                 <div class="author">
+                <i class="fa fa-clock-o jmy_web_div" data-page="inicio" id="hola34">
+                <?php $this->pnt('hola34','40 minutos'); ?></i>
+                 
                                             </div>
                                             <div class="tags">
-                                                <i class="fa fa-tag"></i>
-                                                <a href="<?php echo RUTA_ACTUAl; ?>">120</a>
+                                                <i class="fa fa-tag jmy_web_div" data-page="inicio" id="hola35">
+                <?php $this->pnt('hola35',' 100'); ?></i>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -407,19 +434,21 @@
                                     <div class="entry-details">
                                         <div class="hr-invisible-very-small"></div>
                                         <div class="entry-title">
-	                                        <h3>tratamientos capilares</h3>
+	                                        <h3 class="jmy_web_div" data-page="inicio" id="hola36">
+                <?php $this->pnt('hola36','tratamientos capilares'); ?></h3>
                                         </div>
                                        
-                                        <div class="entry-metadata">
-                                            <p>ven y cuida tu cabello con productos adecuados para tu cabello </p>
-                                            <div class="author">
-                                                <i class="fa fa-clock-o"></i>
-                                                <a href="<?php echo RUTA_ACTUAL; ?>">1 hrs</a>
-                                            </div>
-                                            <div class="tags">
-                                                <i class="fa fa-tag"></i>
-                                                <a href="<?php echo RUTA_ACTUAL; ?>">desde 150</a>
-                                            </div>
+            <div class="entry-metadata">
+            <p class="jmy_web_div" data-page="inicio" id="hola37">
+            <?php $this->pnt('hola37','ven y cuida tu cabello con productos adecuados para tu cabello'); ?></p>
+            <div class="author">
+            <i class="fa fa-clock-o jmy_web_div" data-page="inicio" id="hola38">
+            <?php $this->pnt('hola38','1 hrs'); ?></i>
+            </div>
+            <div class="tags">
+            <i class="fa fa-tag jmy_web_div" data-page="inicio" id="hola39">
+                <?php $this->pnt('hola39','desde 150'); ?></i>
+            </div>
                                         </div>
                                     </div>
                                 </article>
@@ -434,18 +463,22 @@
                                     <div class="entry-details">
                                         <div class="hr-invisible-very-small"></div>
                                         <div class="entry-title">
-	                                        <h3>uñas y gelish</h3>
+	                                        <h3 class="jmy_web_div" data-page="inicio" id="hola40">
+                <?php $this->pnt('hola40','uñas y gelish'); ?></h3>
                                         </div>
                                       
                                         <div class="entry-metadata">
-                                            <p>ven a ponerte uñas de acrílico y gelish para esa ocasión especial</p>
+                                            <p class="jmy_web_div" data-page="inicio" id="hola41">
+                <?php $this->pnt('hola41','ven a ponerte uñas de acrílico y gelish para esa ocasión especial'); ?></p>
                                             <div class="author">
-                                                <i class="fa fa-clock-o"></i>
-                                                <a href="<?php echo RUTA_ACTUAL; ?>">1 hrs</a>
+                                                <i class="fa fa-clock-o jmy_web_div" data-page="inicio" id="hola42">
+                <?php $this->pnt('hola42','1 hrs'); ?></i>
+                                                
                                             </div>
                                             <div class="tags">
-                                                <i class="fa fa-tag"></i>
-                                                <a href="<?php echo RUTA_ACTUAL; ?>">desde 120</a>
+                                                <i class="fa fa-tag jmy_web_div" data-page="inicio" id="hola43">
+                <?php $this->pnt('hola43','desde 120'); ?></i>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -457,7 +490,8 @@
           	</div>
             <div class="clear"></div>
             <div class="hr-invisible"></div>
-            <h2 class="border-title aligncenter"> lista de precios y servicios  </h2>
+            <h2 class="border-title aligncenter jmy_web_div" data-page="inicio" id="hola44">
+                <?php $this->pnt('hola44','lista de precios y servicios'); ?></h2>
          	<div class="hr-invisible"></div>
             <div class="fullwidth-section pricing-container">
             <div class="left-image"></div>
@@ -470,14 +504,19 @@
                             <div class="dt-sc-pricing-carousel">
                                 <div class="column dt-sc-one-half">
                                     <ul class="menu-card check">
-                                        <li>Corte de dama <span>$120</span></li>
-                                        <li>corte de niña<span>$120</span></li>
-                                        <li>secado & planchado 
-										<br>
-										desde<span>$120</span></li>
-                                        <li>Manicure<span>$100</span></li>
-                                        <li>Pedicure<span>$140</span></li>
-                                        <li>Esmaltado<span>$60</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola45">
+                                    <?php $this->pnt('hola45','corte de dama '); ?>
+                                        <span>$120</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola46">
+                                     <?php $this->pnt('hola46','corte de niña '); ?><span>$120</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola47">
+<?php $this->pnt('hola47','sedado y Planchado desde '); ?><span>$120</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola48">
+<?php $this->pnt('hola48','Manicure '); ?><span>$100</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola49">
+<?php $this->pnt('hola49','pedicure '); ?><span>$140</span></li>
+                                        <li class="jmy_web_div" data-page="inicio" id="hola50">
+<?php $this->pnt('hola50','esmaltado '); ?><span>$60</span></li>
                                         <li>Esmalte 21 angel<span>$100</span></li>
                                         <li>Esmalte 21 mishel<span>$150</span></li>
                                         <li>Gelish<span>$180</span></li>
