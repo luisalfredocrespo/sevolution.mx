@@ -1321,11 +1321,7 @@ tratamiento intensivo revitalizador y perfeccionador, aporta elasticidad y devue
                     
                     
                     
-                        <?php  /** cierre descripcion de productos tec ytaly**/ ?>
+                        <?php  /** cierre descripcion de productos tec y taly**/ ?>
                     </div>
                     </div>
                     </div>
-					
-					
-					
-					
