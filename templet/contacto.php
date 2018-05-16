@@ -82,7 +82,11 @@
                             <ul class="opening-time dark-bg jmy_web_div" data-page="Contacto" id="hola106">
 <?php $this->pnt('hola106',' '); ?>
                             	<li class="close"><span>D&iacute;as</span><h5>Hora</h5></li>
-                                <li><span>Lunes</span><h5>9 am - 8 pm</h5></li>
+                                <li><span class=" border-title jmy_web_div" data-page="contacto" id="hola107">
+<?php $this->pnt('hola107','Lunes '); ?>
+</span><h5 class="jmy_web_div" data-page="contacto" id="hola108">
+<?php $this->pnt('hola108','9 am - 8 pm '); ?>
+</h5></li>
                                 <li><span>Martes</span><h5>9 am - 8 pm</h5></li>
                                 <li><span>Miercoles</span><h5>9 am - 8 pm</h5></li>
                                 <li><span>Jueves</span><h5>9 am - 8 pm</h5></li>
@@ -91,22 +95,37 @@
                             </ul>
                         </div>
                         <div class="column dt-sc-one-half">
-                        	<h3 class="border-title"> Detalle &nbsp;<span>Contacto</span> </h3>
+                        	<h3 class="border-title jmy_web_div" data-page="contacto" id="hola111">
+<?php $this->pnt('hola111','Detalle Contacto '); ?>
+</h3>
                             <aside class="widget widget_text">
-                                <h4 class="widgettitle">Direcci&oacute;n </h4>
+                                <h4 class="widgettitle jmy_web_div" data-page="contacto" id="hola110">
+<?php $this->pnt('hola110','Dirección '); ?>
+</h4>
                                 <div class="dt-sc-contact-info address">
-                                    <p>Calle 4 <br>No.87 entre calle 13 y 15<br>Col.Espartaco 
-									Del.Coyoacan</p>
+                                    <p class="jmy_web_div" data-page="contacto" id="hola109">
+<?php $this->pnt('hola109','Calle 4 
+No.87 entre calle 13 y 15
+Col.Espartaco Del.Coyoacan '); ?>
+</p>
                                 </div>
                                 <div class="hr-invisible-very-very-small"></div>
-                                <h4 class="widgettitle"> Telefono </h4>
+                                <h4 class="widgettitle jmy_web_div" data-page="contacto" id="hola112">
+<?php $this->pnt('hola112','Telefóno '); ?>
+</h4>
                                 <div class="dt-sc-contact-info">
-                                    <p class="dt-sc-clr num"> (55) 56-84-49-06</p>
+                                    <p class="dt-sc-clr num jmy_web_div" data-page="contacto" id="hola113">
+<?php $this->pnt('hola113','(55)56-84-49-06 '); ?>
+</p>
                                 </div>
                                 <div class="hr-invisible-very-very-small"></div>
-                                <h4 class="widgettitle">Correo </h4>
+                                <h4 class="widgettitle jmy_web_div" data-page="contacto" id="hola114">
+<?php $this->pnt('hola114','Correo '); ?>
+</h4>
                                 <div class="dt-sc-contact-info">
-                                    <a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>mailto:yourname@somemail.com" class="dt-sc-clr"> Saloncapri_1315@hotmail.com</a>
+                                    <a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>mailto:yourname@somemail.com" class="dt-sc-clr jmy_web_div" data-page="contacto" id="hola115">
+<?php $this->pnt('hola115','Saloncapri_1315@hotmail.com '); ?>
+</a>
                                 </div>
                             </aside>
                         </div>
