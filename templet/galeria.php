@@ -2,24 +2,30 @@
         	<div class="hr-invisible-small"></div>
         	<section class="fullwidth-background">
         		<div class="breadcrumb-wrapper">
-                    <div class="container">
-                        <h4>  Salon Gallery </h4>
-                        <h6><a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>index.html">Home</a> / Gallery</h6>
-                    </div>
+                    
                 </div>                
             </section>
             <div class="hr-invisible-very-small"></div>
             <div class="clear"></div>
             <section id="primary" class="content-full-width"><!-- Primary Section -->
             	<div class="fullwidth-section">
-                    <h2 class="border-title aligncenter">Gallery </h2>
+                    <h2 class="border-title aligncenter jmy_web_div" data-page="galeria" id="hola92">
+<?php $this->pnt('hola92','galeria '); ?>
+</h2>
                     <div class="hr-invisible-very-small"></div>
                     <div class="container">
                         <div class="dt-sc-sorting-container">
-                            <a data-filter=".all-sorte" class="btn-eff3 active-sort" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" >cortes de damas </a>     
-							<a data-filter=".all-sortes" class="btn-eff3 " href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" >cortes de caballero </a>     
-                            <a data-filter=".cutting" class="btn-eff3" href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" >  Rayos</a>
-							  <a data-filter=".all-sort" class="btn-eff3 "href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" > uñas </a>   
+                            <a data-filter=".all-sorte" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola96">
+<?php $this->pnt('hola96','corte de dama '); ?>
+</a>     
+	<a data-filter=".all-sortes" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola95"><?php $this->pnt('hola96','corte de caballero'); ?>
+</a>     
+                            <a data-filter=".cutting" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola94">
+<?php $this->pnt('hola94','Rayos '); ?>
+</a>
+							  <a data-filter=".all-sort" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola93">
+<?php $this->pnt('hola93','uñas'); ?>
+</a>   
                         </div>
                     </div>
                     <div class="clear"></div>
@@ -999,9 +1005,13 @@
                     <div class="fullwidth-bg">
                     	<div class="parallax-spacing">
                     		<div class="container">
-                            	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
+                            	<h3 class="border-title jmy_web_div" data-page="galeria" id="hola97">
+<?php $this->pnt('hola97','Reserva tu cita con anticipación'); ?>
+</h3>
                                 <div class="aligncenter">
-                                	<a href="<?php echo RUTA_ACTUAL; ?>contacto" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
+                                	<a href="<?php echo RUTA_ACTUAL; ?>contacto" class="appointment-btn btn-eff2 jmy_web_div" data-page="galeria" id="hola98">
+<?php $this->pnt('hola98','Reserva tu cita '); ?>
+</a>
                               	</div>
                             </div>
                         </div>
