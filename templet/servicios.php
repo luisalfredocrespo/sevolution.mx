@@ -3,7 +3,9 @@
         	<section class="fullwidth-background">
         		<div class="breadcrumb-wrapper">
                     <div class="container">
-                        <h4> Nuestros servicios </h4>
+                        <h4 class="jmy_web_div" data-page="inicio" id="hola78">
+<?php $this->pnt('hola78','Nuestros servicios '); ?>
+</h4>
                         
                     </div>
                 </div>                
@@ -12,25 +14,39 @@
             <div class="clear"></div>
             <section id="primary" class="content-full-width"><!-- Primary Section -->
             	<div class="fullwidth-section">
-                    <h2 class="border-title aligncenter"> Nuestros servicios de sal&oacuten </h2>
-                    <div class="dt-sc-tabs-container">
-                        <div class="clear"></div>
-                        <div class="hr-invisible-small"></div>
-                        <ul class="dt-sc-tabs-frame">	
-                            <li class="btn-eff3 current" > cortes y barbas   </li>
-                            <li class="btn-eff3" > secados y planchados </li>
-                            <li class="btn-eff3" > tintes,mechas y tratamientos </li>
-                            <li class="btn-eff3" > uñas,manicure y pedicure </li>
-                        </ul>  
+                    <h2 class="border-title aligncenter jmy_web_div" data-page="inicio" id="hola79">
+<?php $this->pnt('hola79','Nuestros servicios de salón '); ?>
+</h2>
+        <div class="dt-sc-tabs-container">
+            <div class="clear"></div>
+            <div class="hr-invisible-small"></div>
+        <ul class="dt-sc-tabs-frame">	
+            <li class="btn-eff3 current jmy_web_div" data-page="inicio" id="hola80">
+<?php $this->pnt('hola80','cortes y barbas '); ?>
+</li>
+            <li class="btn-eff3 jmy_web_div" data-page="inicio" id="hola81">
+<?php $this->pnt('hola81','secados y planchados '); ?>
+</li>
+            <li class="btn-eff3 jmy_web_div" data-page="inicio" id="hola82">
+<?php $this->pnt('hola82','tintes,mechas y tratamientos '); ?>
+</li>
+            <li class="btn-eff3 jmy_web_div" data-page="inicio" id="hola83">
+<?php $this->pnt('hola83','uñas, manicure y pedicure '); ?>
+</li>
+        </ul>  
                 <div class="clear"></div>
                 <div class="hr-invisible"></div>
                 <div class="fullwidth-section dt-sc-parallax-section appointment-parallax dark-bg" style="background-position: 20% 3px;">
                     <div class="fullwidth-bg">
                     	<div class="parallax-spacing">
                     		<div class="container">
-                            	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
+                            	<h3 class="border-title jmy_web_div" data-page="inicio" id="hola84">
+<?php $this->pnt('hola84','Reserva tu cita con anticipación '); ?>
+</h3>
                                 <div class="aligncenter">
-                                	<a href="<?php echo RUTA_ACTUAL; ?>contacto" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
+                                	<a href="<?php echo RUTA_ACTUAL; ?>contacto" class="appointment-btn btn-eff2 jmy_web_div" data-page="inicio" id="hola85">
+<?php $this->pnt('hola85','Reserva tu cita  '); ?>
+</a>
                               	</div>
                             </div>
                         </div>
@@ -42,25 +58,30 @@
                             	<div class="services-container alignright">
                                 	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-tab-img1.jpg" alt="" title="" >
                                     <div class="dt-sc-view-btn">
-                                    	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="btn-eff2"> Ver galeria </a>
+                                    	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="btn-eff2 jmy_web_div" data-page="inicio" id="hola86">
+<?php $this->pnt('hola86',' ver galería'); ?>
+</a>
                                     </div>
 									<div class="alignright"></div>
 									<ul class="dt-sc-fancy-list check">
 									 </ul>
                                     <div class="text-align=alignright">
-                                        <h3 class="alignright"> para <span>ellos</span> </h3>
+                                        <h3 class="alignright jmy_web_div" data-page="inicio" id="hola87">
+<?php $this->pnt('hola87','para ellos'); ?>
+</h3>
 										 <br>
 										 <br>
 										 <br>
                                        
-                                        <ul class="alignright">
-                                            <li> Corte de cabello </li>
+                                        <ul class="alignright jmy_web_div" data-page="inicio" id="hola88">
+                 <?php $this->pnt('hola88','<li> Corte de cabello </li>
                                             <li> Barba </li>
-											<li> Tinte </li>
+                                            <li> Tinte </li>
                                             <li> Manicure</li>
-											<li> Pedicure </li>
-                                            <li> Rasurada </li>
-                                            
+                                            <li> Pedicure </li>
+                                            <li> Rasurada </li>'); ?>
+
+                                        
                                             
                                             
                                         </ul>
@@ -71,12 +92,18 @@
                             	<div class="services-container alignright">
                                 	<img src="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>images/service-tab-img2.jpg" alt="" title="" >
                                     <div class="dt-sc-view-btn">
-                                    	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="btn-eff2"> ver galeria</a>
+                                    	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="btn-eff2 jmy_web_div" data-page="inicio" id="hola89">
+<?php $this->pnt('hola89','ver galería'); ?>
+</a>
                                     </div>
                                     <div class="text-align=center">
-                                        <h3> para <span>ellas</span> </h3>
+                                        <h3 class="jmy_web_div" data-page="inicio" id="hola90">
+<?php $this->pnt('hola90','para ellas '); ?>
+</h3>
                                         
-                                        <ul class="alignleft">
+                                        <ul class="alignleft jmy_web_div" data-page="inicio" id="hola91">
+<?php $this->pnt('hola91',''); ?>
+
                                             <li> corte de cabello </li>
                                             <li> Depilaciones </li>
                                             <li> Maquillaje </li>
