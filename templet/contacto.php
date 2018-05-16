@@ -1,8 +1,10 @@
 	<section class="fullwidth-background">
         		<div class="breadcrumb-wrapper">
                     <div class="container">
-                        <h4> Detalles de contacto </h4>
-                        <h6><a href="<?php echo RUTA_ACTUAL; ?>">inicio</a> / Contact</h6>
+                        <h4 class="jmy_web_div" data-page="Contacto" id="hola98">
+<?php $this->pnt('hola98','Detalle de Contacto '); ?>
+</h4>
+                        
                     </div>
                 </div>                
             </section>
@@ -13,9 +15,11 @@
                     <div class="fullwidth-bg">
                     	<div class="parallax-spacing">
                     		<div class="container">
-                            	<h3 class="border-title">Reserva tu cita   <span>con anticipación </span></h3>
+                            	<h3 class="border-title jmy_web_div" data-page="Contacto" id="hola99">
+<?php $this->pnt('hola99','Reserva tu cita con anticipación '); ?></h3>
                                 <div class="aligncenter">
-                                	<a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>#" class="appointment-btn btn-eff2">Reserva tu  <span>cita</span></a>
+                                	<a href="<?php echo RUTA_ACTUAL; ?>#" class="appointment-btn btn-eff2 jmy_web_div" data-page="Contacto" id="hola100">
+<?php $this->pnt('hola100','Reserva tu cita  '); ?></a>
                               	</div>
                             </div>
                         </div>
@@ -25,13 +29,14 @@
                 <div class="hr-invisible"></div>
                 <div class="container">
                     <div class="column dt-sc-one-third first">
-                        <h3 class="border-title">Aparta tu cita <span></span></h3>
-                        <p> Para reservar tu cita tines que llenar este formurario
-                            con tus datos personales y dia que deses tu cita 
-							y si eres criente comentar con quien requieres tu servicios.</p>
+                        <h3 class="border-title jmy_web_div" data-page="Contacto" id="hola101">
+<?php $this->pnt('hola101','Aparta tu cita '); ?></h3>
+                        <p class="jmy_web_div" data-page="Contacto" id="hola102">
+<?php $this->pnt('hola102','Para reservar tu cita tines que llenar este formurario con tus datos personales y dia que deses tu cita y si eres criente comentar con quien requieres tu servicios. '); ?></p>
                     </div>
                     <div class="column dt-sc-two-third">
-                    	<h3 class="border-title"> <span>Mensaje</span></h3>
+                    	<h3 class="border-title jmy_web_div" data-page="Contacto" id="hola103">
+<?php $this->pnt('hola103','Mensaje '); ?></h3>
                     	<form class="contact-form" method="post" name="enqform" action="php/send.php">
                             <div class="column dt-sc-one-half first">
                             	<div class="animate" data-delay="100" data-animation="fadeIn">
@@ -64,15 +69,18 @@
             <div class="hr-invisible-very-small"></div>
             <div class="clear"></div>
             <section id="primary" class="content-full-width"><!-- Primary Section -->
-            	<h2 class="border-title aligncenter"> ubicacion del salòn</h2>
+            	<h2 class="border-title aligncenter jmy_web_div" data-page="Contacto" id="hola104">
+<?php $this->pnt('hola104','Ubicacion del salón '); ?></h2>
                 <div class="clear"></div>
                 <div class="hr-invisible-medium"></div>
             	<div class="fullwidth-section fullwidth-bg contact-us">
                     <div class="column dt-sc-three-fifth first">
                     	<div class="hr-invisible-small"></div>
                         <div class="column dt-sc-one-half first">
-                        	<h3 class="border-title"> Hora de &nbsp;<span>apertura </span> </h3>
-                            <ul class="opening-time dark-bg">
+                        	<h3 class="border-title jmy_web_div" data-page="Contacto" id="hola105">
+<?php $this->pnt('hola105','Hora de apertura '); ?></h3>
+                            <ul class="opening-time dark-bg jmy_web_div" data-page="Contacto" id="hola106">
+<?php $this->pnt('hola106',' '); ?>
                             	<li class="close"><span>D&iacute;as</span><h5>Hora</h5></li>
                                 <li><span>Lunes</span><h5>9 am - 8 pm</h5></li>
                                 <li><span>Martes</span><h5>9 am - 8 pm</h5></li>
