@@ -45,8 +45,6 @@ if($_SESSION['JMY3WEB'][DOY]){
                             ],
                         ]);
 
-
-
             echo json_encode(["POST"=>$_POST,"GET"=>$_GET,"estado"=>$estado]);
         break;
         case 'agregar_empleado':
@@ -68,9 +66,6 @@ if($_SESSION['JMY3WEB'][DOY]){
 }else{
     $jmyWeb ->cargar_vista(["url"=>"404.php"]);
 }
-
-
-
 
 
 ?>
