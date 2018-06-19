@@ -27,4 +27,3 @@ var style = {
 	wS_he:"margin:5px; width:220px; height:40px; background-color:white;",
 	wS_OP:"position:absolute;top:5px;left:70px;padding:5px;border-radius:5px;background-color:rgba(200,200,200,0.7);color:#333;font-size:12px;",
 }
-alert("hola");

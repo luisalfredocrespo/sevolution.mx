@@ -9,21 +9,21 @@
             <div class="clear"></div>
             <section id="primary" class="content-full-width"><!-- Primary Section -->
             	<div class="fullwidth-section">
-                    <h2 class="border-title aligncenter jmy_web_div" data-page="galeria" id="hola92">
+                    <h2 class="border-title aligncenter jmy_web_div" data-page="galeria" id="hola92"data-editor="no">
 <?php $this->pnt('hola92','galeria '); ?>
 </h2>
                     <div class="hr-invisible-very-small"></div>
                     <div class="container">
                         <div class="dt-sc-sorting-container">
-                            <a data-filter=".all-sorte" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola96">
+                            <a data-filter=".all-sorte" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola96"data-editor="no">
 <?php $this->pnt('hola96','corte de dama '); ?>
 </a>     
-	<a data-filter=".all-sortes" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola95"><?php $this->pnt('hola96','corte de caballero'); ?>
+	<a data-filter=".all-sortes" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola95"data-editor="no"><?php $this->pnt('hola95','corte de caballero'); ?>
 </a>     
-                            <a data-filter=".cutting" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola94">
+                            <a data-filter=".cutting" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola94"data-editor="no">
 <?php $this->pnt('hola94','Rayos '); ?>
 </a>
-							  <a data-filter=".all-sort" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola93">
+							  <a data-filter=".all-sort" class="btn-eff3 jmy_web_div" data-page="galeria" id="hola93"data-editor="no">
 <?php $this->pnt('hola93','uñas'); ?>
 </a>   
                         </div>
