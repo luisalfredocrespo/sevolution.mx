@@ -35,8 +35,8 @@ define(	"DB_JMY_ADD_TABLA",true); //Agregar Tablas faltantes en la base de datos
 /*MySQL*/
 define(	"DB_HO","localhost"); //servidor
 define(	"DB_US","root"); //usuario
-define(	"DB_PA",""); //contrase�a
-define(	"DB_DB","salonevolution"); //Base de datos
+define(	"DB_PA","01568466700"); //contrase�a
+define(	"DB_DB","madbae"); //Base de datos
 
 
 define(	"DB_PX",""); //prefijo de tablas en Base de datos //ACT
