@@ -21,7 +21,7 @@ $(document).ready(function() {
             nombre:$("#nombre").val(),
             puesto:$("#puesto").val()
         };
-        console.log("le dio guardar");
+        console.log("le dio guardar");//excepciones
         console.log(formulario);
         if(formulario.nombre!="" &&
             formulario.puesto!=""

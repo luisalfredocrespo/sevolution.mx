@@ -19,7 +19,7 @@ if($_SESSION['JMY3WEB'][DOY]){
                     //"COL"=>["puesto"], // ARRAY OPCIONAL
             ]);
             $datos = $datos['ot'][$id_empleado];
-            $jmyWeb->cargar_js(["url"=>BASE_TEMPLET."js/citas.js","unico"=>true]);
+            $jmyWeb->cargar_js(["url"=>BASE_TEMPLET."js/empleados.js","unico"=>true]);
             $jmyWeb ->cargar_vista(["url"=>"editar_empleado.php",
                                     "data"=>["datos"=>$datos, "id"=>$id_empleado]]);
         break;
@@ -31,7 +31,7 @@ if($_SESSION['JMY3WEB'][DOY]){
             ]);
             $datos = $datos['ot'][$id_empleado];
             
-            $jmyWeb ->cargar_vista(["url"=>"ver_empleado.php",
+            $jmyWeb ->cargar_vista(["url"=>"ver_empleados.php",
                                     "data"=>["datos"=>$datos, "id"=>$id_empleado]]);
         break;
         case 'agregar_empleado_guardar':
@@ -49,7 +49,7 @@ if($_SESSION['JMY3WEB'][DOY]){
         break;
         case 'agregar_empleado':
             $jmyWeb ->pre(['p'=>$_GET,'t'=>'GET']);
-            $jmyWeb->cargar_js(["url"=>BASE_TEMPLET."js/citas.js","unico"=>true]); // carga JS externo 
+            $jmyWeb->cargar_js(["url"=>BASE_TEMPLET."js/empleados.js","unico"=>true]); // carga JS externo 
             $jmyWeb ->cargar_vista(["url"=>"formulario_empleado.php"]);
         break;
         case 'lista_empleado' :
