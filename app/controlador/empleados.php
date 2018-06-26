@@ -42,11 +42,14 @@ if($_SESSION['JMY3WEB'][DOY]){
                             "GUARDAR"=>[
                                 "nombre"=>$_POST['nombre'],
                                 "puesto"=>$_POST['puesto'],
+                                "direccion"=>$_POST['direccion'],
+                                "telefono"=>$_POST['telefono'],
+                                "fecha_de_nacimiento"=>$_POST['fecha_de_nacimiento'],    
                             ],
-                        ]);
-
-            echo json_encode(["POST"=>$_POST,"GET"=>$_GET,"estado"=>$estado]);
-        break;
+                                ]);
+                                
+                                echo json_encode(["POST"=>$_POST,"GET"=>$_GET,"estado"=>$estado]);
+                                break;
         case 'agregar_empleado':
             $jmyWeb ->pre(['p'=>$_GET,'t'=>'GET']);
             $jmyWeb->cargar_js(["url"=>BASE_TEMPLET."js/empleados.js","unico"=>true]); // carga JS externo 
