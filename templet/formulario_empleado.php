@@ -6,12 +6,12 @@
     </ul>
 </div>
 <div class="row">
-    <div class="col-md-6 col-offset-md-3" id="alerta">
+    <div class="col-md-4 col-offset-md-3" id="alerta">
 
     </div>
 </div>
 <div class="row">
-    <div class="col-md-6 col-offset-md-3">
+    <div class="col-md-4 col-offset-md-3">
         <input type="text" id="nombre" placeholder="Nombre" >
         <input type="text" id="puesto" placeholder="Puesto" >
         <input type="text" id="direccion" placeholder="direccion" value="<?php echo $data['datos']['direccion']; ?>" >
@@ -22,5 +22,5 @@
         <input type="text" id="horario_vezpertino_inicio" placeholder="horario_vezpertino_inicio" value="<?php echo $data['datos']['horario_matutino_inicio']; ?>" >
         <input type="text" id="horario_vezpertino_final" placeholder="horario_vezpertino_final" value="<?php echo $data['datos']['horario_vezpertino_final']; ?>" >
         <button id="guardar">Guardar</button>
-    </div>
+    </div><div class="col-md-4 col-offset-md-3" ></div> 
 </div>
