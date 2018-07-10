@@ -96,10 +96,13 @@
                         '.'(044)5513004391',
                         ["secundario"=>"header"]
                         );?></li>
-                        <li>
-                            <span class="fa fa-phone-square"></span>
-                            (55)56844906
-                        </li>
+                        <li  class="jmy_web_div"  id="header_horario1" data-page="header" data-editor="no">
+                        <?php 
+                        $this->pnt('header_horario1',
+                        '<span class="fa fa-phone"></span>
+                        '.'(55)56844906',
+                        ["secundario1"=>"header"]
+                        );?></li>
                         <li>
                             <span class="fa fa-envelope"></span>
                             <a href="<?php echo RUTA_ACTUAL.BASE_TEMPLET; ?>mailto:yourname@somemail.com">saloncapri_1315@hotmail.com</a>

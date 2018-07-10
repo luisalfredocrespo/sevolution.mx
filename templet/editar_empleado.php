@@ -16,5 +16,6 @@
         <input type="text" id="horario_vezpertino_inicio" placeholder="horario_vezpertino_inicio" value="<?php echo $data['datos']['horario_matutino_inicio']; ?>" >
         <input type="text" id="horario_vezpertino_final" placeholder="horario_vezpertino_final" value="<?php echo $data['datos']['horario_vezpertino_final']; ?>" >
         <button id="actualizar">Actualizar</button>
-    </div>
+     
+    </div><div class="col-md-6 col-offset-md-3" ></div> 
 </div>
