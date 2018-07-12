@@ -53,7 +53,7 @@ if($_SESSION['JMY3WEB'][DOY]){
         case 'agregar_proveedores':
             $jmyWeb ->pre(['p'=>$_GET,'t'=>'GET']);
             $jmyWeb->cargar_js(["url"=>BASE_TEMPLET."js/proveedores.js","unico"=>true]); // carga JS externo 
-            $jmyWeb ->cargar_vista(["url"=>"formulario_proveedores.php"]);
+            $jmyWeb ->cargar_vista(["url"=>"editar_proveedores.php"]);
         break;
         case 'lista_proveedores' :
             $lista = $jmy->ver([	"TABLA"=>"estetica_proveedores", // STRING
